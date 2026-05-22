@@ -90,12 +90,7 @@ I am a passionate **AI & Data Science student** dedicated to building intelligen
 - 📜 **Java & SQL Certifications** — Core backend engineering and database management.
 - 📜 **Frontend Development Certification** — Building responsive, high-performance user interfaces.
 - 📜 **Microsoft Learn Achievement** — Educator & AI Fundamentals.
-
-#### 🚀 Milestones & Community
-- 🔥 **#100DaysOfCode** — 100 consecutive days of deep learning and system architecture.
-- 🥇 **Hackathon Finalist** — Developing innovative AI solutions under high-pressure environments.
-- 🤝 **Open Source Contributor** — Actively contributing to the global developer ecosystem.
-
+  
 ---
 
 ### 🛠️ Currently Learning
