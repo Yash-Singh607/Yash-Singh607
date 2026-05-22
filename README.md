@@ -2,7 +2,7 @@
 ### AI & Data Science Student @ VIT Bhopal
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Computer+Vision+Researcher;NLP+%26+RAG+Specialist;AI+Systems+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Yash+Pratap+Singh;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Computer+Vision+Developer;Building+AI+Systems;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
