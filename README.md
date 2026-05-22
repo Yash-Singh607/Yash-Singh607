@@ -118,6 +118,4 @@ I am a passionate **AI & Data Science student** dedicated to building intelligen
 </p>
 
 ---
-<p align="center">
-  <i>Built for the Synthetic Frontier • © 2024 Yash Pratap Singh</i>
-</p>
+
