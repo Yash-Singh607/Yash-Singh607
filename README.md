@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yash Pratap Singh
 
-### AI & Data Science Engineer | Machine Learning Enthusiast | Computer Vision Developer
+### AI & Data Science Student | Machine Learning Enthusiast | Computer Vision Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;Computer+Vision+Developer;Building+Agentic+AI+Systems;Deep+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 I am an AI & Data Science student at VIT Bhopal passionate about building intelligent systems that solve real-world problems.
 
-My interests include:
+### Interests
 
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning & Deep Learning
@@ -25,21 +25,21 @@ My interests include:
 
 * 🔭 Building Agentic AI & Multi-Agent Systems
 * 🌱 Learning Reinforcement Learning
-* 📚 Exploring High-Performance AI Computing
-* 🏆 Participating in Hackathons & Open Source Programs
+* 🏆 Participating in Hackathons and Open Source Programs
+* 📚 Exploring Advanced Computer Vision & LLM Applications
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### AI / Machine Learning
+### AI / ML
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
@@ -66,7 +66,7 @@ My interests include:
 
 Agentic AI + RAG platform for enterprise knowledge retrieval and reasoning.
 
-**Tech Stack:** LangChain, OpenAI, FastAPI, Vector Databases
+**Tech Stack:** LangChain, FastAPI, OpenAI, Vector Databases
 
 ---
 
@@ -90,7 +90,7 @@ Customer support escalation system using emotional shift analysis.
 
 Non-invasive stress estimation using facial motion analysis and optical flow.
 
-**Tech Stack:** OpenCV, Signal Processing, Python
+**Tech Stack:** Python, OpenCV, Signal Processing
 
 ---
 
@@ -113,12 +113,9 @@ Non-invasive stress estimation using facial motion analysis and optical flow.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Singh607&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash-Singh607&theme=tokyonight&row=1&column=7&no-frame=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Singh607&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash-Singh607&theme=tokyonight" />
 </p>
 
 ---
@@ -133,8 +130,8 @@ Non-invasive stress estimation using facial motion analysis and optical flow.
 
 ## 📚 Certifications
 
-* Machine Learning – NPTEL
-* AI Fundamentals – Microsoft Learn
+* Machine Learning — NPTEL
+* AI Fundamentals — Microsoft Learn
 * Data Analytics Certification
 * Java Programming Certification
 * SQL & Database Management
@@ -170,4 +167,4 @@ Non-invasive stress estimation using facial motion analysis and optical flow.
 
 ---
 
-⭐ If you find my projects interesting, feel free to connect and collaborate.
+⭐ Open to collaborations in AI, Machine Learning, Computer Vision, and Agentic AI projects.
