@@ -97,7 +97,7 @@ Non-invasive stress estimation using facial motion analysis and optical flow.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true" />
 </p>
 
