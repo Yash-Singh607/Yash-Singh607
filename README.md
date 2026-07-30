@@ -206,7 +206,7 @@
     </tr>
     <tr>
       <td>👁️ <b>Fundamentals of Computer Vision</b></td>
-      <td>Microsoft</td>
+      <td>Vityarthi</td>
       <td><a href="https://drive.google.com/file/d/1BDFinUfZrMvnYod1Pn_A4f0GDVFHE-eM/view?usp=sharing"><b>[Verify Credential]</b></a></td>
     </tr>
     <tr>
@@ -288,5 +288,9 @@
 </p>
 
 <p>⭐ <i>Star the repositories if they helped you!</i></p>
+
+<br/>
+
+> *"We can only see a short distance ahead, but we can see plenty there that needs to be done."* — **Alan Turing**
 
 </div>
