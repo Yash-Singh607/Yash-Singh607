@@ -20,8 +20,8 @@
     <a href="#-core-focus--philosophy"><b>Overview</b></a> •
     <a href="#️-technical-skillset"><b>Skillset</b></a> •
     <a href="#-featured-engineering-case-studies"><b>Projects</b></a> •
-    <a href="#-certifications--credentials"><b>Certifications</b></a> •
-    <a href="#-vital-statistics--contribution-activity"><b>Analytics</b></a> •
+    <a href="#-certifications--verified-credentials"><b>Certifications</b></a> •
+    <a href="#-vital-statistics--activity-metrics"><b>Analytics</b></a> •
     <a href="#-collaboration--connect"><b>Connect</b></a>
   </p>
 
@@ -153,7 +153,7 @@
         <br/>
         <ul>
           <li><b>Utterance Embeddings:</b> Fine-tuned RoBERTa-base pooled output vectors.</li>
-          <li><b>Sliding Window Math:</b> Window size <code>w=3</code> tracking $\Delta \text{Sentiment} / \Delta t$ velocity vectors across message timestamps.</li>
+          <li><b>Sliding Window Math:</b> Window size <code>w=3</code> tracking velocity vectors across message timestamps.</li>
           <li><b>Escalation Trigger:</b> Cosine distance threshold decay $> 0.45$ triggers priority queue routing.</li>
         </ul>
       </details>
@@ -196,18 +196,63 @@
 
 ---
 
-## 📜 Certifications & Credentials
+## 📜 Certifications & Verified Credentials
 
-- 🎓 **Machine Learning** — NPTEL (IIT Standard Certification)
-- ☁️ **AI Fundamentals** — Microsoft Learn
-- 📊 **Data Analytics Certification** — Industry Recognized
-- ☕ **Java Programming Certification** — Core & Object-Oriented Design
-- 🗄️ **SQL & Database Management** — Relational Database Architecture
-- 💻 **Frontend Development Certification** — Modern Web Standards
+<table>
+  <thead>
+    <tr>
+      <th>Certification / Specialization</th>
+      <th>Issuing Organization</th>
+      <th>Credential Verification</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🤖 <b>Introduction to Machine Learning</b></td>
+      <td>Microsoft</td>
+      <td><a href="https://drive.google.com/file/d/1L2iWKByuD2dw5tgzkLo8FALzUMM2-Gf8/view?usp=sharing"><b>[Verify Credential]</b></a></td>
+    </tr>
+    <tr>
+      <td>👁️ <b>Fundamentals of Computer Vision</b></td>
+      <td>Microsoft</td>
+      <td><a href="https://drive.google.com/file/d/1BDFinUfZrMvnYod1Pn_A4f0GDVFHE-eM/view?usp=sharing"><b>[Verify Credential]</b></a></td>
+    </tr>
+    <tr>
+      <td>☁️ <b>Cloud Computing</b></td>
+      <td>NPTEL (IIT Standard)</td>
+      <td><a href="https://drive.google.com/file/d/1EwffKWtUwqvg5Brd1XNCrUJ-VBlkuWnq/view?usp=drive_link"><b>[Verify Credential]</b></a></td>
+    </tr>
+    <tr>
+      <td>☕ <b>Java — Skill Certification</b></td>
+      <td>Roadmap.sh</td>
+      <td><a href="https://drive.google.com/file/d/1HcXIdvpHBQ-SMBKZLkKbHYHHFRNnRCSg/view?usp=drive_link"><b>[Verify Credential]</b></a></td>
+    </tr>
+    <tr>
+      <td>🗄️ <b>SQL — Skill Certification</b></td>
+      <td>Roadmap.sh</td>
+      <td><a href="https://drive.google.com/file/d/1Ffjo5XgkENCLzHhkp-4ERpCG0DIBCn-D/view?usp=drive_link"><b>[Verify Credential]</b></a></td>
+    </tr>
+    <tr>
+      <td>🧠 <b>Applied Machine Learning in Python</b></td>
+      <td>Coursera / University of Michigan</td>
+      <td><a href="https://drive.google.com/file/d/12QZbVBnFK0Lu7rxpOz8mR6GomEF3gY8v/view?usp=drive_link"><b>[Verify Credential]</b></a></td>
+    </tr>
+    <tr>
+      <td>💼 <b>ServiceNow Virtual Internship Program</b></td>
+      <td>Forage</td>
+      <td><a href="https://drive.google.com/file/d/1JXZ0zcapa_y-9H2dGO34-DKONAeRo8Vf/view?usp=drive_link"><b>[Verify Credential]</b></a></td>
+    </tr>
+    <tr>
+      <td>📊 <b>GenAI Powered Data Analytics Job Simulation</b></td>
+      <td>Forage</td>
+      <td><a href="https://drive.google.com/file/d/1EaCdWKgVF1YSGhDmvjRF5tOsq3W0x4c2/view?usp=drive_link"><b>[Verify Credential]</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 📊 Vital Statistics & Contribution Activity
+## 📊 Vital Statistics & Activity Metrics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak" />
@@ -217,6 +262,13 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+
+<br/>
+
+<!-- GITHUB CONTRIBUTION SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yash-Singh607/Yash-Singh607/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%"/>
 </div>
 
 <br/>
