@@ -266,13 +266,6 @@
 
 <br/>
 
-<!-- GITHUB CONTRIBUTION SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yash-Singh607/Yash-Singh607/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%"/>
-</div>
-
-<br/>
-
 <!-- RANDOM ENGINEERING QUOTE GENERATOR -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Engineering Quote" />
