@@ -1,12 +1,12 @@
-<!-- 🛸 STITCH THEME DYNAMIC BANNER -->
+<!-- DYNAMIC HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,35:1e1b4b,70:4a0e4e,85:e056fd,100:00f2fe&height=230&section=header&text=Yash%20Pratap%20Singh&fontSize=42&fontAlign=50&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Machine%20Learning%20%26%20Computer%20Vision%20Developer&descSize=16&descAlign=50&descAlignY=62&stroke=00f2fe&strokeWidth=1" width="100%" alt="Stitch Dynamic Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Yash%20Pratap%20Singh&fontSize=40&fontAlign=50&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Machine%20Learning%20%26%20Computer%20Vision%20Developer&descSize=16&descAlign=50&descAlignY=62" width="100%" alt="Yash Pratap Singh Header"/>
 
   <br/>
 
   <!-- DYNAMIC TYPING TEXT -->
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Developer;Computer+Vision+%26+Explainable+AI+(XAI)+Engineer;Building+PulmoScan+%26+Emotion+Drift+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=680&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Developer;Computer+Vision+%26+Explainable+AI+(XAI)+Engineer;Building+PulmoScan+%26+Computer+Vision+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -32,12 +32,20 @@
 
 ---
 
+### 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=Yash-Singh607&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Yash's GitHub Trophies" />
+</div>
+
+---
+
 ### ⚡ Quick Overview
 
 ```yaml
 Degree          : B.Tech in Artificial Intelligence & Data Science
 Institution     : VIT Bhopal University
-Primary Domains  : Medical Image Diagnostics, Computer Vision & Temporal NLP
+Primary Domains  : Medical Imaging, Computer Vision & Temporal NLP
 Tech Focus      : PyTorch, OpenCV, Transformers, Signal Processing
 Competitive     : LeetCode Problem Solver & AI Hackathon Builder
 ```
