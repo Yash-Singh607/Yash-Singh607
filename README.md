@@ -3,14 +3,14 @@
   <h1>⚡ YASH PRATAP SINGH ⚡</h1>
   <h3><code>AI & Data Science Student @ VIT Bhopal | Machine Learning & Computer Vision Developer</code></h3>
 
-  <!-- 1. DYNAMIC PROFILE VIEWS COUNTER BADGE -->
+  <!-- LIVE PROFILE VIEWS COUNTER BADGE -->
   <a href="https://github.com/Yash-Singh607">
     <img src="https://komarev.com/ghpvc/?username=Yash-Singh607&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
 
   <br/><br/>
 
-  <!-- 2. DYNAMIC ANIMATED TYPING BANNER -->
+  <!-- DYNAMIC ANIMATED TYPING BANNER -->
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=740&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Engineer;Computer+Vision+%26+Medical+Diagnostics+Specialist;Building+PulmoScan+%26+Real-Time+AI+Systems" alt="Typing SVG" />
   </a>
@@ -27,7 +27,7 @@
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/yash_014/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-yash__014-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 
 </div>
@@ -244,32 +244,23 @@
 
 ---
 
-## 📊 Live GitHub Analytics & LeetCode Performance
+## 📊 Live GitHub Analytics & Contribution Metrics
 
-<!-- 3. DYNAMIC LEETCODE BADGE -->
-<div align="center">
-  <a href="https://leetcode.com/u/yash_014/">
-    <img src="https://leetcode-stats-badge.herokuapp.com/?username=yash_014&theme=dark" alt="LeetCode Stats" />
-  </a>
-</div>
-
-<br/>
-
-<!-- 4. DYNAMIC GITHUB STREAK STATS -->
+<!-- GITHUB STREAK STATS -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak" />
 </div>
 
 <br/>
 
-<!-- 5. DYNAMIC ACTIVITY GRAPH -->
+<!-- ACTIVITY GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 <br/>
 
-<!-- 6. DYNAMIC RANDOM ENGINEERING QUOTE GENERATOR -->
+<!-- RANDOM ENGINEERING QUOTE GENERATOR -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Engineering Quote" />
 </div>
@@ -288,7 +279,7 @@
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/yash_014/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-yash__014-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
   <a href="https://github.com/Yash-Singh607">
