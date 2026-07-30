@@ -64,7 +64,7 @@ I am an AI & Data Science student at VIT Bhopal passionate about building intell
 ### 🫁 PulmoScan — AI Pulmonary Diagnostic System
 > **Medical Computer Vision & Explainable AI (XAI)**
 
-* 🛑 **Problem Faced**: Medical X-ray datasets frequently suffer from severe class imbalance and low local image contrast. Additionally, black-box AI models lack clinical interpretability for radiologists.
+* 🛑 **Problem Faced**: Medical X-ray datasets frequently suffer from severe class imbalance (rare pathologies vs. normal scans) and low local image contrast. Additionally, black-box AI outputs lack clinical interpretability for radiologists.
 * 💡 **Technical Solution**: Implemented **CLAHE (Contrast Limited Adaptive Histogram Equalization)** to sharpen tissue boundaries, trained models using **Weighted Focal Loss** to handle class imbalance, and integrated **Grad-CAM visual heatmaps** to highlight precise diagnostic feature attributions.
 
 **Tech Stack:** `PyTorch`, `OpenCV`, `Grad-CAM`, `Scikit-Learn`, `Python`
@@ -74,40 +74,10 @@ I am an AI & Data Science student at VIT Bhopal passionate about building intell
 ### 🎭 Emotion Drift Detection
 > **NLP & Sentiment Acceleration Dynamics**
 
-* 🛑 **Problem Faced**: Standard sentiment analysis models evaluate utterances independently in isolation, failing to track subtle, cumulative emotional decay in multi-turn conversations before churn occurs.
+* 🛑 **Problem Faced**: Standard sentiment analysis models evaluate utterances independently in isolation, failing to track subtle, cumulative emotional decay in multi-turn customer support conversations before churn occurs.
 * 💡 **Technical Solution**: Designed a **temporal sliding-window transformer algorithm** calculating sentiment trajectory, velocity, and acceleration across message timestamps using fine-tuned **Hugging Face Transformer embeddings** to alert leads proactively.
 
 **Tech Stack:** `Python`, `Hugging Face Transformers`, `PyTorch`, `NLP`, `Pandas`
-
----
-
-### 👁️ Shastra Eye AI Surveillance
-> **Edge Computer Vision & Real-Time Video Processing**
-
-* 🛑 **Problem Faced**: High-resolution multi-camera video streams overwhelm edge hardware CPU memory, leading to frame drops and latency spikes during real-time surveillance.
-* 💡 **Technical Solution**: Engineered a multi-threaded video decoding pipeline with OpenCV CUDA acceleration and PyTorch model quantization to enable real-time target detection and spatial event tracking.
-
-**Tech Stack:** `PyTorch`, `OpenCV`, `NVIDIA Jetson`, `Edge AI`
-
----
-
-### 🧠 Visual Stress Detection
-> **Biomedical Signal Processing & Micro-Motion Analytics**
-
-* 🛑 **Problem Faced**: Traditional physiological stress monitoring relies on intrusive physical sensors attached directly to patients.
-* 💡 **Technical Solution**: Built a non-invasive optical flow pipeline analyzing sub-visual facial skin tremors and micro-expression dynamics directly from standard webcam feeds.
-
-**Tech Stack:** `Python`, `OpenCV`, `Optical Flow`, `Signal Processing`
-
----
-
-### 🤖 Enterprise Knowledge Copilot
-> **Semantic Search & Document Retrieval**
-
-* 🛑 **Problem Faced**: Searching across dense enterprise documentation with standard keyword search yields fragmented, out-of-context snippets.
-* 💡 **Technical Solution**: Implemented a semantic document indexing system utilizing vector embeddings and similarity search for rapid context retrieval.
-
-**Tech Stack:** `LangChain`, `FastAPI`, `Python`, `Vector Search`
 
 ---
 
