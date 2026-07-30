@@ -1,242 +1,170 @@
-# 👋 Hi, I'm **Yash Pratap Singh**
+# 👋 Hi, I'm Yash Pratap Singh
 
-<h3 align="center">
-AI/ML Developer • Computer Vision & NLP Enthusiast • Software Engineering Student
-</h3>
+### AI & Data Science Student | Machine Learning Enthusiast | Computer Vision Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP;Exploring+Generative+AI;Open+Source+Contributor"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yash-Singh607&style=for-the-badge&color=0E75B6"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;Computer+Vision+Developer;Building+Agentic+AI+Systems;Deep+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Computer Science student at VIT Bhopal University** passionate about building intelligent systems using **Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing**.
+I am an AI & Data Science student at VIT Bhopal passionate about building intelligent systems that solve real-world problems.
 
-I enjoy working on AI applications that solve real-world problems — from analyzing emotions in conversations to building computer vision-based automation systems.
+### Interests
 
-Currently, I am exploring **Generative AI, Large Language Models, and AI-powered applications** while continuously improving my software development and problem-solving skills.
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning & Deep Learning
+* 👁️ Computer Vision
+* 💬 Natural Language Processing
+* 🔍 Retrieval-Augmented Generation (RAG)
+* ⚡ Agentic AI Systems
 
----
+### Current Focus
 
-## 🧠 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning & Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Generative AI Applications
-- Data Analytics
-- Software Development
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,sql"/>
-</p>
-
-### Machine Learning & AI
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,react,docker,git,github"/>
-</p>
+* 🔭 Building Agentic AI & Multi-Agent Systems
+* 🌱 Learning Reinforcement Learning
+* 🏆 Participating in Hackathons and Open Source Programs
+* 📚 Exploring Advanced Computer Vision & LLM Applications
 
 ---
 
-# 🚀 Featured Projects
+## 🛠 Tech Stack
 
-## 🧠 Enterprise Knowledge Copilot
+### Languages
 
-### AI-Based Knowledge Retrieval System
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Problem
+### AI / ML
 
-Organizations often struggle to find accurate information from large amounts of internal data. Traditional search systems fail to understand context and user intent.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
-### Solution
+### Development
 
-Built an AI-powered knowledge assistant that combines document retrieval and intelligent response generation to provide context-aware answers.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-### Key Contributions
+### Tools
 
-- Designed an AI workflow for processing user queries and retrieving relevant information.
-- Implemented semantic search for better knowledge discovery.
-- Developed APIs for integrating AI capabilities.
-- Worked on improving response accuracy and reliability.
-
-### Tech Stack
-
-`Python` `FastAPI` `LLMs` `Vector Search` `AI Workflows`
-
----
-
-# 😊 Emotion Drift Detection
-
-### NLP System for Detecting Emotional Changes
-
-### Problem
-
-Customer interactions can become negative before support teams identify user frustration. Detecting emotional changes early can improve customer experience.
-
-### Solution
-
-Developed an NLP-based system that analyzes conversations and identifies changes in emotional patterns.
-
-### Key Contributions
-
-- Built an emotion classification pipeline using transformer-based models.
-- Fine-tuned **DistilBERT** using the GoEmotions dataset.
-- Developed emotion trend analysis logic.
-- Created APIs for model inference using FastAPI.
-- Built an interactive interface for visualization.
-
-### Tech Stack
-
-`Python` `Transformers` `DistilBERT` `Hugging Face` `FastAPI` `React`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
-# 🩺 PulmoScan
+## 📂 Featured Projects
 
-### Deep Learning-Based Medical Image Analysis
+### 🤖 Enterprise Knowledge Copilot
 
-### Problem
+Agentic AI + RAG platform for enterprise knowledge retrieval and reasoning.
 
-Medical image analysis requires significant manual effort and expertise.
-
-### Solution
-
-Developed a deep learning-based image segmentation system to assist automated lung image analysis.
-
-### Key Contributions
-
-- Implemented U-Net based segmentation architecture.
-- Created image preprocessing pipelines.
-- Generated segmentation masks using deep learning models.
-- Worked on improving automated image analysis.
-
-### Tech Stack
-
-`Python` `TensorFlow` `U-Net` `OpenCV`
+**Tech Stack:** LangChain, FastAPI, OpenAI, Vector Databases
 
 ---
 
-# 📷 NG-OK
+### 👁️ Shastra Eye AI Surveillance
 
-### AI-Assisted Photo Workflow Platform
+Real-time intelligent surveillance system powered by computer vision and edge AI.
 
-### Problem
-
-Photographers spend significant time manually reviewing thousands of images after large events.
-
-### Solution
-
-Contributed to an open-source platform focused on improving photo management and workflow automation.
-
-### Key Contributions
-
-- Worked on authentication and application workflows.
-- Improved reliability through debugging and testing.
-- Contributed code through GitHub pull requests.
-- Collaborated on AI-powered workflow improvements.
-
-### Tech Stack
-
-`Electron` `React` `TypeScript` `Cloudflare Workers`
+**Tech Stack:** PyTorch, OpenCV, NVIDIA Jetson
 
 ---
 
-# 🏆 Highlights
+### 🎭 Emotion Drift Detection
 
-- Solved **150+ LeetCode problems**
-- Built AI applications across NLP and Computer Vision
-- Active open-source contributor
-- Experience developing and deploying AI-based applications
-- Continuously learning modern AI technologies
+Customer support escalation system using emotional shift analysis.
+
+**Tech Stack:** Python, Transformers, NLP
 
 ---
 
-# 📊 GitHub Analytics
+### 🧠 Visual Stress Detection
+
+Non-invasive stress estimation using facial motion analysis and optical flow.
+
+**Tech Stack:** Python, OpenCV, Signal Processing
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh607&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh607&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📚 Certifications
+## 📈 Contribution Activity
 
-- Machine Learning Certification
-- Microsoft AI Fundamentals
-- SQL & Database Management
-- Java Programming
-- Data Analytics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Singh607&theme=tokyonight" />
+</p>
 
----
-
-# 🎯 Current Goals
-
-- Build production-ready AI applications
-- Improve Machine Learning and Software Engineering skills
-- Explore Generative AI applications
-- Contribute to impactful open-source projects
-- Share technical knowledge
-
----
-
-# 🤝 Connect With Me
-
-<p>
-
-<a href="https://github.com/Yash-Singh607">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/yash_014/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Singh607&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash-Singh607&theme=tokyonight" />
 </p>
 
 ---
 
-<h3 align="center">
+## 🔥 Contribution Graph
 
-⭐ Building intelligent systems that solve real-world problems.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true" />
+</p>
 
-</h3>
+---
+
+## 📚 Certifications
+
+* Machine Learning — NPTEL
+* AI Fundamentals — Microsoft Learn
+* Data Analytics Certification
+* Java Programming Certification
+* SQL & Database Management
+* Frontend Development Certification
+
+---
+
+## 🎯 2026 Goals
+
+* Build production-ready Agentic AI systems
+* Contribute to impactful open-source projects
+* Publish technical blogs on AI & Computer Vision
+* Participate in global hackathons
+* Strengthen expertise in Reinforcement Learning
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/yash_014/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://github.com/Yash-Singh607">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ Open to collaborations in AI, Machine Learning, Computer Vision, and Agentic AI projects.
