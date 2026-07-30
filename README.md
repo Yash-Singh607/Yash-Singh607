@@ -231,7 +231,7 @@
     </tr>
     <tr>
       <td>💼 <b>ServiceNow Virtual Internship Program</b></td>
-      <td>Forage</td>
+      <td>ServiceNow</td>
       <td><a href="https://drive.google.com/file/d/1JXZ0zcapa_y-9H2dGO34-DKONAeRo8Vf/view?usp=drive_link"><b>[Verify Credential]</b></a></td>
     </tr>
     <tr>
