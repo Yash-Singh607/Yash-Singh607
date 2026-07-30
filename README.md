@@ -3,14 +3,14 @@
   <h1>✨ Yash Pratap Singh ✨</h1>
   <p><b>AI & Data Science Student @ VIT Bhopal • Machine Learning & Computer Vision Developer</b></p>
 
-  <!-- PROFILE VIEWS BADGE -->
+  <!-- LIVE PROFILE VIEWS COUNTER BADGE -->
   <img src="https://komarev.com/ghpvc/?username=Yash-Singh607&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br/><br/>
 
   <!-- DYNAMIC TYPING TEXT -->
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Developer;Computer+Vision+%26+Explainable+AI+(XAI)+Engineer;Building+PulmoScan+%26+Real-Time+Vision+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Developer;Computer+Vision+%26+Medical+Diagnostics+Developer;Building+PulmoScan+%26+Real-Time+Vision+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -44,7 +44,7 @@
 
 <br/>
 
-> 🛸 **Welcome to my engineering showcase.** I am an AI & Data Science student at **VIT Bhopal**, specializing in Medical Computer Vision, Explainable AI (XAI), and Temporal Natural Language Processing. Dedicated to translating machine learning research into robust, high-performance software systems.
+> 🛸 **Welcome to my engineering showcase.** I am an AI & Data Science student at **VIT Bhopal**, specializing in Medical Computer Vision, Model Interpretability, and Temporal Natural Language Processing. Dedicated to translating machine learning research into robust, high-performance software systems.
 
 ---
 
@@ -62,7 +62,7 @@
       <h3>🚀 Core Focus & Philosophy</h3>
       <ul>
         <li>🫁 <b>Medical Diagnostics:</b> Pulmonary X-Ray Segmentation & CLAHE contrast enhancement</li>
-        <li>🧠 <b>Explainable AI (XAI):</b> Grad-CAM feature heatmaps for interpretable model outputs</li>
+        <li>🧠 <b>Model Interpretability:</b> Grad-CAM feature heatmaps for transparent diagnostic validation</li>
         <li>💬 <b>Temporal NLP:</b> Trajectory, velocity, and acceleration tracking for sentiment drift</li>
         <li>👁️ <b>Edge Computer Vision:</b> Real-time multi-stream video pipelines on NVIDIA Jetson</li>
       </ul>
@@ -122,7 +122,7 @@
   <tr>
     <td width="100%">
       <h3>🫁 01. PulmoScan — AI Pulmonary Diagnostic System</h3>
-      <p><i>Medical Computer Vision & Explainable AI (XAI)</i></p>
+      <p><i>Medical Computer Vision & Visual Interpretability</i></p>
       <ul>
         <li>🛑 <b>Engineering Challenge:</b> Radiograph datasets suffer from extreme class imbalance (rare pathologies vs. normal scans) and low local contrast that hides early lesions.</li>
         <li>💡 <b>Technical Solution & Impact:</b> Applied <b>CLAHE</b> contrast normalization and <b>Weighted Focal Loss</b> with transfer learning architectures (ResNet/EfficientNet), achieving <b>94.2% ROC-AUC</b> and reducing false-negative rates by <b>38%</b>. Integrated <b>Grad-CAM heatmaps</b> for transparent visual verification.</li>
@@ -134,7 +134,7 @@
         <ul>
           <li><b>Preprocessing Pipeline:</b> <code>CLAHE (Clip Limit=2.0, TileGridSize=8x8)</code> for X-ray contrast enhancement.</li>
           <li><b>Loss Function:</b> <code>Focal Loss (alpha=0.25, gamma=2.0)</code> to prioritize hard, ambiguous lesion samples over easy normal scans.</li>
-          <li><b>Explainability Layer:</b> Target layer activations hooked into <code>Grad-CAM</code> to produce 224x224 attribution heatmaps for clinicians.</li>
+          <li><b>Interpretability Layer:</b> Target layer activations hooked into <code>Grad-CAM</code> to produce 224x224 attribution heatmaps for clinicians.</li>
         </ul>
       </details>
     </td>
