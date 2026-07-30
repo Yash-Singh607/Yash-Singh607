@@ -1,17 +1,13 @@
-<!-- DYNAMIC HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Yash%20Pratap%20Singh&fontSize=40&fontAlign=50&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Machine%20Learning%20%26%20Computer%20Vision%20Developer&descSize=16&descAlign=50&descAlignY=62" width="100%" alt="Yash Pratap Singh Header"/>
+  <h1>👋 Hi, I'm Yash Pratap Singh</h1>
+  <p><b>AI & Data Science Student @ VIT Bhopal | Machine Learning & Computer Vision Engineer</b></p>
 
-  <br/>
-
-  <!-- DYNAMIC TYPING TEXT -->
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=680&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Developer;Computer+Vision+%26+Explainable+AI+(XAI)+Engineer;Building+PulmoScan+%26+Computer+Vision+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- FLOATING BADGES -->
   <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,20 +19,11 @@
   <a href="https://leetcode.com/u/yash_014/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-
 </div>
 
 <br/>
 
 > **Welcome to my GitHub profile!** I am an AI & Data Science student at **VIT Bhopal**, specializing in Medical Computer Vision, Explainable AI (XAI), and Natural Language Processing. Dedicated to translating complex machine learning research into functional, real-world engineering solutions.
-
----
-
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=Yash-Singh607&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Yash's GitHub Trophies" />
-</div>
 
 ---
 
