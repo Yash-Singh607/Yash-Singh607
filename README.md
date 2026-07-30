@@ -206,7 +206,7 @@
     </tr>
     <tr>
       <td>👁️ <b>Fundamentals of Computer Vision</b></td>
-      <td>Vityarthi</td>
+      <td>Microsoft</td>
       <td><a href="https://drive.google.com/file/d/1BDFinUfZrMvnYod1Pn_A4f0GDVFHE-eM/view?usp=sharing"><b>[Verify Credential]</b></a></td>
     </tr>
     <tr>
