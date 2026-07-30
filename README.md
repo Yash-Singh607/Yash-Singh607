@@ -4,30 +4,32 @@
   <p><b>AI & Data Science Student @ VIT Bhopal • Machine Learning & Computer Vision Developer</b></p>
 
   <!-- LIVE PROFILE VIEWS COUNTER BADGE -->
-  <img src="https://komarev.com/ghpvc/?username=Yash-Singh607&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-  <br/><br/>
-
-  <!-- DYNAMIC TYPING TEXT -->
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Developer;Computer+Vision+%26+Medical+Diagnostics+Developer;Building+PulmoScan+%26+Real-Time+Vision+Systems" alt="Typing SVG" />
+  <a href="https://github.com/Yash-Singh607">
+    <img src="https://komarev.com/ghpvc/?username=Yash-Singh607&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 
   <br/><br/>
 
-  <!-- QUICK NAVIGATION LINKS -->
+  <!-- DYNAMIC TYPING TEXT BANNER -->
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=720&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Developer;Computer+Vision+%26+Medical+Diagnostics+Developer;Building+PulmoScan+%26+Real-Time+Vision+Systems" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- QUICK NAVIGATION BAR -->
   <p>
-    <a href="#-core-focus--philosophy"><b>Overview</b></a> •
-    <a href="#️-technical-skillset"><b>Skillset</b></a> •
+    <a href="#-core-focus--engineering-philosophy"><b>Overview</b></a> •
+    <a href="#️-technical-skillset"><b>Skills</b></a> •
     <a href="#-featured-engineering-case-studies"><b>Projects</b></a> •
     <a href="#-certifications--verified-credentials"><b>Certifications</b></a> •
-    <a href="#-vital-statistics--activity-metrics"><b>Analytics</b></a> •
+    <a href="#-dynamic-github-analytics--metrics"><b>Analytics</b></a> •
     <a href="#-collaboration--connect"><b>Connect</b></a>
   </p>
 
   <br/>
 
-  <!-- FLOATING BADGES -->
+  <!-- FLOATING SOCIAL BADGES -->
   <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -48,7 +50,7 @@
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+### 🏆 Dynamic GitHub Trophies & Milestones
 
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=Yash-Singh607&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Yash's GitHub Trophies" />
@@ -59,7 +61,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Core Focus & Philosophy</h3>
+      <h3>🚀 Core Focus & Engineering Philosophy</h3>
       <ul>
         <li>🫁 <b>Medical Diagnostics:</b> Pulmonary X-Ray Segmentation & CLAHE contrast enhancement</li>
         <li>🧠 <b>Model Interpretability:</b> Grad-CAM feature heatmaps for transparent diagnostic validation</li>
@@ -188,7 +190,7 @@
       <ul>
         <li>🛑 <b>Engineering Challenge:</b> Dense multi-page enterprise PDFs yield fragmented, out-of-context keyword search results.</li>
         <li>💡 <b>Technical Solution & Impact:</b> Implemented vector similarity embeddings and FastAPI service architecture for rapid semantic context retrieval (<b>320ms query latency</b>).</li>
-        <li>🏷️ <b>Tech Stack:</b> <code>LangChain</code> • <code>FastAPI</code> • <code>Python</code> • `Vector Search`</li>
+        <li>🏷️ <b>Tech Stack:</b> <code>LangChain</code> • <code>FastAPI</code> • <code>Python</code> • <code>Vector Search</code></li>
       </ul>
     </td>
   </tr>
@@ -252,7 +254,7 @@
 
 ---
 
-## 📊 Vital Statistics & Activity Metrics
+## 📊 Dynamic GitHub Analytics & Metrics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak" />
