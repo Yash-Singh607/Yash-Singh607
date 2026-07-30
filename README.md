@@ -289,8 +289,4 @@
 
 <p>⭐ <i>Star the repositories if they helped you!</i></p>
 
-<br/>
-
-> *"The only way to do great work is to love what you do."* — **Steve Jobs**
-
 </div>
