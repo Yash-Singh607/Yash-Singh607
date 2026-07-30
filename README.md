@@ -1,83 +1,96 @@
 # 👋 Hi, I'm Yash Pratap Singh
 
-### Software Engineering Intern @ ShotSelect | AI/ML Enthusiast | Competitive Programmer
+### AI & Data Science Student | Machine Learning Enthusiast | Computer Vision Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Building+with+React%2C+TypeScript%2C+Electron;Computer+Vision+%26+Applied+ML;Competitive+Programmer+%40+LeetCode;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/yash_014/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:yashpratap1837@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;Computer+Vision+Developer;Building+Agentic+AI+Systems;Deep+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-B.Tech CSE (AI & ML) student at VIT Bhopal, currently interning as a Software Engineering Intern at **ShotSelect**, an AI-powered photo culling platform. I build across the stack — from React/Electron desktop apps to computer vision pipelines — and compete regularly in DSA on LeetCode.
+I am an AI & Data Science student at VIT Bhopal passionate about building intelligent systems that solve real-world problems.
 
-- 💼 Currently: SWE Intern @ ShotSelect — React, TypeScript, Electron, Node.js, Cloudflare Workers
-- 🎓 B.Tech CSE (AI-ML), VIT Bhopal — CGPA 9.04, graduating 2027
-- 🏆 Nasscom Hackathon 2026 — Team *Runtime Terror*, Enterprise Knowledge Copilot
-- 🌱 Currently deepening DSA (Java) and preparing for SDE placements
-- 👁️ Long-term interests: computer vision, applied ML, model monitoring
+### Interests
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning & Deep Learning
+* 👁️ Computer Vision
+* 💬 Natural Language Processing
+* 🔍 Retrieval-Augmented Generation (RAG)
+* ⚡ Agentic AI Systems
+
+### Current Focus
+
+* 🔭 Building Agentic AI & Multi-Agent Systems
+* 🌱 Learning Reinforcement Learning
+* 🏆 Participating in Hackathons and Open Source Programs
+* 📚 Exploring Advanced Computer Vision & LLM Applications
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Languages
 
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-**Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+
+### Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🫁 [PulmoScan](https://github.com/Yash-Singh607)
-Pneumonia detection from chest X-rays using a fine-tuned ResNet-50, served via FastAPI with Grad-CAM explainability and a CI pipeline on GitHub Actions.
-`PyTorch` `FastAPI` `Docker` `Grad-CAM` `GitHub Actions`
+### 🤖 Enterprise Knowledge Copilot
 
-### 🎭 [Emotion Drift Detection](https://github.com/Yash-Singh607)
-Detects emotional shifts in customer support conversations using a fine-tuned DistilBERT on the GoEmotions dataset, with a React/Electron front end and drift alerting.
-`DistilBERT` `NLP` `React` `Electron` `FastAPI`
+Agentic AI + RAG platform for enterprise knowledge retrieval and reasoning.
 
-### 🤖 Enterprise Knowledge Copilot — Nasscom Hackathon 2026
-Agentic RAG platform for enterprise knowledge retrieval. Built the graph database and relational reasoning module — entity extraction and a LangChain tool interface over Neo4j.
-`LangGraph` `Gemini 1.5 Pro` `Neo4j` `ChromaDB` `LangChain`
+**Tech Stack:** LangChain, FastAPI, OpenAI, Vector Databases
 
-### 🌾 [AgriBot](https://github.com/Yash-Singh607)
-IoT-based smart agriculture robot for automated field monitoring and crop health tracking.
-`IoT` `Embedded Systems` `Sensors`
+---
 
-### 👁️ Shastra Eye
-Real-time AI surveillance system for anomaly and intrusion detection.
-`PyTorch` `OpenCV`
+### 👁️ Shastra Eye AI Surveillance
+
+Real-time intelligent surveillance system powered by computer vision and edge AI.
+
+**Tech Stack:** PyTorch, OpenCV, NVIDIA Jetson
+
+---
+
+### 🎭 Emotion Drift Detection
+
+Customer support escalation system using emotional shift analysis.
+
+**Tech Stack:** Python, Transformers, NLP
+
+---
+
+### 🧠 Visual Stress Detection
+
+Non-invasive stress estimation using facial motion analysis and optical flow.
+
+**Tech Stack:** Python, OpenCV, Signal Processing
 
 ---
 
@@ -92,6 +105,23 @@ Real-time AI surveillance system for anomaly and intrusion detection.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh607&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Singh607&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Singh607&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash-Singh607&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true" />
 </p>
@@ -100,24 +130,41 @@ Real-time AI surveillance system for anomaly and intrusion detection.
 
 ## 📚 Certifications
 
-- Machine Learning — NPTEL
-- AI Fundamentals — Microsoft Learn
-- Data Analytics Certification
-- Java Programming Certification
-- SQL & Database Management
-- Frontend Development Certification
+* Machine Learning — NPTEL
+* AI Fundamentals — Microsoft Learn
+* Data Analytics Certification
+* Java Programming Certification
+* SQL & Database Management
+* Frontend Development Certification
 
 ---
 
 ## 🎯 2026 Goals
 
-- Land an SDE role through campus placements
-- Ship production-quality features at ShotSelect
-- Push PulmoScan and Emotion Drift Detection toward more polished, deployable releases
-- Keep climbing on LeetCode and stay hackathon-active
+* Build production-ready Agentic AI systems
+* Contribute to impactful open-source projects
+* Publish technical blogs on AI & Computer Vision
+* Participate in global hackathons
+* Strengthen expertise in Reinforcement Learning
 
 ---
 
-<p align="center">
-  <i>⭐ Open to SDE roles and collaborations in AI, Computer Vision, and full-stack development.</i>
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/yash_014/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://github.com/Yash-Singh607">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+⭐ Open to collaborations in AI, Machine Learning, Computer Vision, and Agentic AI projects.
