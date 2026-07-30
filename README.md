@@ -84,25 +84,7 @@ I am an AI & Data Science student at VIT Bhopal passionate about building intell
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh607&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Singh607&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Singh607&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash-Singh607&theme=tokyonight" />
 </p>
 
 ---
