@@ -3,12 +3,19 @@
   <h1>✨ Yash Pratap Singh ✨</h1>
   <p><b>AI & Data Science Student @ VIT Bhopal • Machine Learning & Computer Vision Developer</b></p>
 
+  <!-- PROFILE VIEWS BADGE -->
+  <img src="https://komarev.com/ghpvc/?username=Yash-Singh607&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <br/><br/>
+
+  <!-- DYNAMIC TYPING TEXT -->
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Developer;Computer+Vision+%26+Explainable+AI+(XAI)+Engineer;Building+PulmoScan+%26+Real-Time+Vision+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
+  <!-- FLOATING BADGES -->
   <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -29,6 +36,14 @@
 
 ---
 
+### 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=Yash-Singh607&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Yash's GitHub Trophies" />
+</div>
+
+---
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -45,7 +60,7 @@
       <ul>
         <li>🎓 <b>Degree:</b> B.Tech in Artificial Intelligence & Data Science</li>
         <li>🏫 <b>University:</b> VIT Bhopal University</li>
-        <li>🏆 <b>Activities:</b> Hackathon Winner & LeetCode Solver</li>
+        <li>🏆 <b>Activities:</b> Hackathon Participant & LeetCode Solver</li>
         <li>🤝 <b>Status:</b> Open for ML/CV Internship & Engineering Roles</li>
       </ul>
     </td>
@@ -174,22 +189,35 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
+<br/>
+
+<!-- RANDOM ENGINEERING QUOTE GENERATOR -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Engineering Quote" />
+</div>
+
 ---
 
+### 🤝 Collaboration & Connect
+
 <div align="center">
-  <p>🤝 <b>Open for collaborations in Machine Learning, Computer Vision, and Software Engineering</b></p>
-  <p>
-    <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    &nbsp;
-    <a href="https://leetcode.com/u/yash_014/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/Yash-Singh607">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-  <p>⭐ <i>Star the repositories if they helped you!</i></p>
+
+<p>I’m open to collaborating on <b>Medical Vision, Deep Learning, Edge AI, and Open-Source ML Projects</b>!</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/yash_014/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Yash-Singh607">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p>⭐ <i>Star the repositories if they helped you!</i></p>
+
 </div>
