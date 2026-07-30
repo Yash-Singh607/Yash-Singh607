@@ -6,9 +6,9 @@
 
 <br/>
 
-  <!-- DYNAMIC TYPING TEXT -->
+  <!-- DYNAMIC TYPING TEXT BANNER -->
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Developer;Computer+Vision+%26+Explainable+AI+(XAI)+Engineer;Building+PulmoScan+%26+Computer+Vision+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=680&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Developer;Computer+Vision+%26+Explainable+AI+(XAI)+Engineer;Building+PulmoScan+%26+Computer+Vision+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -74,6 +74,7 @@
 
 #### 🫁 01. PulmoScan — AI Pulmonary Diagnostic System
 > **Medical Computer Vision & Explainable AI (XAI)**
+
 * 🛑 **Engineering Challenge**: Severe class imbalance and low local image contrast in chest radiographs, combined with black-box model opacity.
 * 💡 **Technical Solution**: Integrated **CLAHE** image contrast normalization, **Weighted Focal Loss** with backbone transfer architectures (**94.2% ROC-AUC**, 38% false-negative reduction), and **Grad-CAM visual heatmaps** for transparent diagnostic validation.
 * **Tech Stack**: `PyTorch` • `OpenCV` • `Grad-CAM` • `Scikit-Learn` • `Python`
@@ -82,6 +83,7 @@
 
 #### 🎭 02. Emotion Drift Detection System
 > **Natural Language Processing & Sentiment Acceleration Dynamics**
+
 * 🛑 **Engineering Challenge**: Static sentiment classifiers fail to capture multi-turn emotional decay over time in support conversations.
 * 💡 **Technical Solution**: Built a **temporal sliding-window transformer algorithm** tracking sentiment velocity & acceleration via fine-tuned **Hugging Face Transformer embeddings** (**89.6% F1-score**), escalating high-risk chats **4.2 minutes earlier**.
 * **Tech Stack**: `Python` • `Hugging Face Transformers` • `PyTorch` • `NLP` • `Pandas`
@@ -90,6 +92,7 @@
 
 #### 👁️ 03. Shastra Eye — Real-Time AI Surveillance Pipeline
 > **Edge Computer Vision & Real-Time Analytics**
+
 * 🛑 **Engineering Challenge**: Decoding multi-stream high-fps video feeds on standard hardware creates CPU bottlenecks and frame drops.
 * 💡 **Technical Solution**: Implemented multi-threaded CUDA frame buffers and TensorRT FP16 quantization to maintain **30+ FPS real-time performance** with **40% lower latency** on **NVIDIA Jetson** edge boards.
 * **Tech Stack**: `PyTorch` • `OpenCV` • `NVIDIA Jetson` • `Edge AI` • `Python`
@@ -98,6 +101,7 @@
 
 #### 🧠 04. Visual Stress Detection System
 > **Biomedical Signal Processing & Micro-Motion Analytics**
+
 * 🛑 **Engineering Challenge**: Intrusive contact sensors cause patient discomfort and artificial stress spikes.
 * 💡 **Technical Solution**: Engineered a non-invasive vision pipeline utilizing dense **Optical Flow** at 60Hz to extract sub-visual facial micro-tremors, correlating **86% with standard HRV indicators**.
 * **Tech Stack**: `Python` • `OpenCV` • `Optical Flow` • `Signal Processing` • `Scikit-Learn`
@@ -106,6 +110,7 @@
 
 #### 🤖 05. Enterprise Knowledge Copilot
 > **Intelligent Information Search & Document Retrieval**
+
 * 🛑 **Engineering Challenge**: Dense multi-page PDFs produce fragmented, out-of-context keyword search results.
 * 💡 **Technical Solution**: Implemented vector similarity embeddings and FastAPI service architecture for rapid semantic context retrieval (**320ms query latency**).
 * **Tech Stack**: `LangChain` • `FastAPI` • `Python` • `Vector Search`
