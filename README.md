@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- DYNAMIC ANIMATED HEADER WAVE BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:00D2FF,100:1e1b4b&height=180&section=header&text=Yash%20Pratap%20Singh&fontSize=38&fontAlign=50&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Machine%20Learning%20%26%20Computer%20Vision%20Developer&descSize=14&descAlign=50&descAlignY=62" width="100%" alt="Header Wave"/>
-
-  <br/><br/>
+  <h1>✨ Yash Pratap Singh ✨</h1>
+  <p><b>AI & Data Science Student @ VIT Bhopal • Machine Learning & Computer Vision Developer</b></p>
 
   <!-- LIVE PROFILE VIEWS COUNTER BADGE -->
   <img src="https://komarev.com/ghpvc/?username=Yash-Singh607&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -23,7 +21,7 @@
     <a href="#️-technical-skillset"><b>Skillset</b></a> •
     <a href="#-featured-engineering-case-studies"><b>Projects</b></a> •
     <a href="#-certifications--verified-credentials"><b>Certifications</b></a> •
-    <a href="#-dynamic-github-analytics--metrics"><b>Analytics</b></a> •
+    <a href="#-vital-statistics--activity-metrics"><b>Analytics</b></a> •
     <a href="#-collaboration--connect"><b>Connect</b></a>
   </p>
 
@@ -254,22 +252,7 @@
 
 ---
 
-## 📊 Dynamic GitHub Analytics & Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh607&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
+## 📊 Vital Statistics & Activity Metrics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak" />
