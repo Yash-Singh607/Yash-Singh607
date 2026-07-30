@@ -15,6 +15,18 @@
 
   <br/><br/>
 
+  <!-- QUICK NAVIGATION LINKS -->
+  <p>
+    <a href="#-core-focus--philosophy"><b>Overview</b></a> •
+    <a href="#️-technical-skillset"><b>Skillset</b></a> •
+    <a href="#-featured-engineering-case-studies"><b>Projects</b></a> •
+    <a href="#-certifications--credentials"><b>Certifications</b></a> •
+    <a href="#-vital-statistics--contribution-activity"><b>Analytics</b></a> •
+    <a href="#-collaboration--connect"><b>Connect</b></a>
+  </p>
+
+  <br/>
+
   <!-- FLOATING BADGES -->
   <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -116,6 +128,15 @@
         <li>💡 <b>Technical Solution & Impact:</b> Applied <b>CLAHE</b> contrast normalization and <b>Weighted Focal Loss</b> with transfer learning architectures (ResNet/EfficientNet), achieving <b>94.2% ROC-AUC</b> and reducing false-negative rates by <b>38%</b>. Integrated <b>Grad-CAM heatmaps</b> for transparent visual verification.</li>
         <li>🏷️ <b>Tech Stack:</b> <code>PyTorch</code> • <code>OpenCV</code> • <code>Grad-CAM</code> • <code>Scikit-Learn</code> • <code>Python</code></li>
       </ul>
+      <details>
+        <summary><b>🔍 View Deep Architecture Details</b></summary>
+        <br/>
+        <ul>
+          <li><b>Preprocessing Pipeline:</b> <code>CLAHE (Clip Limit=2.0, TileGridSize=8x8)</code> for X-ray contrast enhancement.</li>
+          <li><b>Loss Function:</b> <code>Focal Loss (alpha=0.25, gamma=2.0)</code> to prioritize hard, ambiguous lesion samples over easy normal scans.</li>
+          <li><b>Explainability Layer:</b> Target layer activations hooked into <code>Grad-CAM</code> to produce 224x224 attribution heatmaps for clinicians.</li>
+        </ul>
+      </details>
     </td>
   </tr>
   <tr>
@@ -127,6 +148,15 @@
         <li>💡 <b>Technical Solution & Impact:</b> Built a <b>temporal sliding-window transformer algorithm</b> calculating sentiment velocity and acceleration over consecutive utterances using fine-tuned <b>Hugging Face Transformer embeddings</b> (<b>89.6% F1-score</b>), escalating high-risk chats <b>4.2 minutes earlier</b>.</li>
         <li>🏷️ <b>Tech Stack:</b> <code>Python</code> • <code>Hugging Face Transformers</code> • <code>PyTorch</code> • <code>NLP</code> • <code>Pandas</code></li>
       </ul>
+      <details>
+        <summary><b>🔍 View Temporal Math & Pipeline Details</b></summary>
+        <br/>
+        <ul>
+          <li><b>Utterance Embeddings:</b> Fine-tuned RoBERTa-base pooled output vectors.</li>
+          <li><b>Sliding Window Math:</b> Window size <code>w=3</code> tracking $\Delta \text{Sentiment} / \Delta t$ velocity vectors across message timestamps.</li>
+          <li><b>Escalation Trigger:</b> Cosine distance threshold decay $> 0.45$ triggers priority queue routing.</li>
+        </ul>
+      </details>
     </td>
   </tr>
   <tr>
@@ -158,7 +188,7 @@
       <ul>
         <li>🛑 <b>Engineering Challenge:</b> Dense multi-page enterprise PDFs yield fragmented, out-of-context keyword search results.</li>
         <li>💡 <b>Technical Solution & Impact:</b> Implemented vector similarity embeddings and FastAPI service architecture for rapid semantic context retrieval (<b>320ms query latency</b>).</li>
-        <li>🏷️ <b>Tech Stack:</b> <code>LangChain</code> • <code>FastAPI</code> • <code>Python</code> • <code>Vector Search</code></li>
+        <li>🏷️ <b>Tech Stack:</b> <code>LangChain</code> • <code>FastAPI</code> • <code>Python</code> • `Vector Search`</li>
       </ul>
     </td>
   </tr>
