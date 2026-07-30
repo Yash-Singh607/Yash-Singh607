@@ -291,6 +291,6 @@
 
 <br/>
 
-> *"We can only see a short distance ahead, but we can see plenty there that needs to be done."* — **Alan Turing**
+> *"The only way to do great work is to love what you do."* — **Steve Jobs**
 
 </div>
