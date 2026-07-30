@@ -20,23 +20,23 @@
 
 <br/>
 
-> **Welcome to my GitHub!** I am an AI & Data Science student at **VIT Bhopal** passionate about building high-accuracy Machine Learning models, real-time Computer Vision pipelines, and medical & sentiment analytics solutions.
+> **Welcome to my GitHub!** I am an AI & Data Science student at **VIT Bhopal** specializing in Machine Learning, Medical Computer Vision, and Natural Language Processing. Passionate about solving real-world challenges through data-driven engineering.
 
 ---
 
 ### 💡 About Me
 
-* 🏫 **Education**: Artificial Intelligence & Data Science Student at **VIT Bhopal University**
-* 🧠 **Specializations**: Deep Learning, Computer Vision (Medical & Edge AI), Natural Language Processing, and Predictive Signal Processing
-* 🎯 **Current Focus**: Medical Imaging Classification, Real-Time Vision Pipelines, and Open-Source Collaboration
-* 🏆 **Activities**: Hackathon builder & active algorithmic problem solver on LeetCode
+* 🏫 **Education**: B.Tech in Artificial Intelligence & Data Science at **VIT Bhopal University**
+* 🧠 **Core Domains**: Computer Vision (Medical Image Diagnostics), Deep Learning, and Sentiment Trajectory Analytics
+* 🎯 **Current Focus**: Explainable AI (XAI), Model Optimization, and Open-Source Machine Learning Systems
+* 🏆 **Competitive Profile**: Hackathon Enthusiast & Problem Solver on LeetCode
 
 ---
 
 ### 🛠️ Technical Skillset
 
 <p>
-  <b>💻 Core Languages:</b><br/>
+  <b>💻 Languages & Core Querying:</b><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -44,18 +44,22 @@
 </p>
 
 <p>
-  <b>🧠 AI / ML & Computer Vision:</b><br/>
+  <b>🧠 Machine Learning & Deep Learning:</b><br/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/Grad--CAM-00D2FF?style=flat-square&logo=python&logoColor=black" alt="Grad-CAM"/>
-  <img src="https://img.shields.io/badge/CLAHE-008080?style=flat-square&logo=opencv&logoColor=white" alt="CLAHE"/>
 </p>
 
 <p>
-  <b>🌐 Web & Infrastructure:</b><br/>
+  <b>👁️ Computer Vision & Explainable AI:</b><br/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Grad--CAM-00D2FF?style=flat-square&logo=python&logoColor=black" alt="Grad-CAM"/>
+  <img src="https://img.shields.io/badge/CLAHE%20Preprocessing-008080?style=flat-square&logo=opencv&logoColor=white" alt="CLAHE"/>
+</p>
+
+<p>
+  <b>🌐 Developer Tools & Frameworks:</b><br/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
@@ -65,20 +69,19 @@
 
 ---
 
-### 🚀 Featured Projects & Technical Engineering Breakdown
+### 🚀 Featured Engineering Case Studies
 
 #### 🫁 01. PulmoScan — AI-Powered Pulmonary X-Ray Diagnostic System
 > **Medical Computer Vision & Deep Learning Interpretability**
 
-* 🛑 **Problem Faced**: 
-  1. Medical X-ray datasets suffer from severe class imbalance (rare pathologies vs. healthy scans), causing standard CNNs to yield high false-negative rates.
-  2. Low local contrast in raw radiograph images makes subtle pulmonary lesions difficult for convolution layers to extract.
-  3. Raw probability scores (`0.92 positive`) act as a "black box" and lack clinical trust without visual verification.
+* 🛑 **Engineering Challenge**:
+  * **Class Imbalance & Low Contrast**: Radiograph datasets often exhibit acute class imbalance between rare pulmonary conditions and normal scans, coupled with low local image contrast that obscures early-stage lesions.
+  * **Model Opacity**: Standard deep learning outputs are treated as uninterpretable "black boxes", reducing clinical adoptability by medical practitioners.
 
-* 💡 **Technical Solution & Implementation**:
-  1. **Contrast Limited Adaptive Histogram Equalization (CLAHE)**: Pre-processed DICOM/X-ray inputs with CLAHE in OpenCV to amplify tissue boundary clarity.
-  2. **Class-Weighted Focal Loss**: Implemented Weighted Focal Loss alongside transfer learning (EfficientNet/ResNet) to heavily penalize false negatives on hard positive samples.
-  3. **Grad-CAM Visual Explainability**: Generated Grad-CAM heatmaps overlaid directly on X-ray scans to highlight exact region attributions for radiologist verification.
+* 💡 **Technical Solution**:
+  * Integrated **Contrast Limited Adaptive Histogram Equalization (CLAHE)** to normalize radiograph contrast and sharpen subtle lung consolidations.
+  * Utilized **Weighted Focal Loss** with backbone transfer architectures (ResNet / EfficientNet) to penalize misclassifications on hard positive samples.
+  * Implemented **Grad-CAM (Gradient-weighted Class Activation Mapping)** visual heatmaps to explicitly display region attributions on X-rays for transparent diagnostic verification.
 
 * **Tech Stack**: `PyTorch` • `OpenCV` • `Grad-CAM` • `Scikit-Learn` • `Python`
 
@@ -87,47 +90,20 @@
 #### 🎭 02. Emotion Drift Detection System
 > **Natural Language Processing & Sentiment Acceleration Dynamics**
 
-* 🛑 **Problem Faced**: 
-  1. Traditional NLP models evaluate messages in isolation (static sentiment) and fail to detect gradual emotional degradation across multi-turn customer support chats.
-  2. Standard models trigger escalation alerts too late, after customer frustration has already peaked and churn is imminent.
+* 🛑 **Engineering Challenge**:
+  * **Static Model Failures**: Traditional sentiment analysis evaluates messages individually in isolation, failing to track subtle, cumulative emotional decay in multi-turn support conversations.
+  * **Delayed Interventions**: Standard sentiment classifiers trigger escalation warnings only after a user reaches extreme frustration, missing early intervention windows.
 
-* 💡 **Technical Solution & Implementation**:
-  1. **Temporal Sliding-Window Algorithm**: Built a sliding window mechanism across sequential timestamps to measure sentiment **trajectory**, **velocity**, and **acceleration**.
-  2. **Contextual Transformer Shift Vectors**: Utilized fine-tuned **Hugging Face Transformer embeddings** to calculate cosine distance shifts between baseline neutral vectors and negative trajectory vectors.
-  3. **Proactive Alert Engine**: Engineered an automated threshold engine that alerts support leads *before* customer churn occurs.
+* 💡 **Technical Solution**:
+  * Engineered a **temporal sliding-window transformer pipeline** to calculate sentiment **trajectory**, **velocity**, and **acceleration** over consecutive timestamped utterances.
+  * Extracted contextual embeddings using fine-tuned **Hugging Face Transformers** to measure cosine distance shifts between baseline neutral states and negative drift vectors.
+  * Built an automated escalation engine that flags high-risk conversations before severe sentiment degradation or churn occurs.
 
 * **Tech Stack**: `Python` • `Hugging Face Transformers` • `PyTorch` • `NLP` • `Pandas`
 
 ---
 
-#### 👁️ 03. Shastra Eye — Real-Time AI Surveillance Pipeline
-> **Edge Computer Vision & Real-Time Analytics**
-
-* 🛑 **Problem Faced**: Processing high-resolution video streams on standard hardware causes frame drops and inference latency during real-time surveillance.
-* 💡 **Technical Solution**: Implemented multi-threaded frame decoding with PyTorch and OpenCV CUDA acceleration to enable low-latency target tracking and automated event detection on edge devices (NVIDIA Jetson).
-* **Tech Stack**: `PyTorch` • `OpenCV` • `NVIDIA Jetson` • `Edge AI`
-
----
-
-#### 🧠 04. Visual Stress Detection System
-> **Biomedical Signal Processing & Micro-Motion Analytics**
-
-* 🛑 **Problem Faced**: Traditional physiological stress measurement relies on intrusive physical sensors attached to the body.
-* 💡 **Technical Solution**: Designed a non-invasive optical flow pipeline that analyzes sub-visual facial skin tremors and micro-expression fluctuations directly from standard webcam feeds.
-* **Tech Stack**: `Python` • `OpenCV` • `Optical Flow` • `Signal Processing`
-
----
-
-#### 🤖 05. Enterprise Knowledge Copilot
-> **Intelligent Information Search & Retrieval**
-
-* 🛑 **Problem Faced**: Searching through dense, multi-page enterprise PDFs yields fragmented keyword search results.
-* 💡 **Technical Solution**: Built a semantic document indexing pipeline using vector similarity embeddings to locate and extract relevant contextual passages rapidly.
-* **Tech Stack**: `LangChain` • `FastAPI` • `Python` • `Vector Search`
-
----
-
-### 📜 Certifications
+### 📜 Certifications & Credentials
 
 * 🎓 **Machine Learning** — NPTEL
 * ☁️ **AI Fundamentals** — Microsoft Learn
@@ -154,5 +130,5 @@
 
 <div align="center">
   <p>🤝 <b>Open for collaborations in Machine Learning, Computer Vision, and Software Engineering</b></p>
-  <p><i>Feel free to connect via <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">LinkedIn</a> or check out my repositories!</i></p>
+  <p><i>Feel free to connect via <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">LinkedIn</a> or explore my repositories!</i></p>
 </div>
