@@ -1,173 +1,209 @@
 <div align="center">
 
-> Hey There!, I am [Yash Pratap Singh](https://www.linkedin.com/in/yash-pratap-singh-4542692a0/)
-<br/>
-「 AI & Data Science Student at VIT Bhopal | Computer Vision & Machine Learning Engineer 」
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00D2FF&height=200&section=header&text=Yash%20Pratap%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Computer%20Vision%20%7C%20Software%20Engineering&descAlignY=58&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D2FF&center=true&vCenter=true&width=600&lines=SWE+Intern+%40+ShotSelect;Building+PulmoScan+%E2%80%94+Explainable+Medical+AI;B.Tech+CSE+(AI-ML)+%40+VIT+Bhopal;Competitive+Programmer+%40+LeetCode" alt="Typing SVG"/>
 
 <br/>
 
-  <!-- DYNAMIC TYPING TEXT BANNER -->
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=680&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Deep+Learning+Developer;Computer+Vision+%26+Explainable+AI+(XAI)+Engineer;Building+PulmoScan+%26+Computer+Vision+Systems" alt="Typing SVG" />
-  </a>
+<a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Yash-Singh607"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/yash_014/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:yashpratap1837@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-  <br/><br/>
+<br/>
 
-  <!-- FLOATING BADGES -->
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Yash-Singh607">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/yash_014/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+![Profile Views](https://komarev.com/ghpvc/?username=Yash-Singh607&color=00D2FF&style=flat-square&label=Profile+Views)
 
 </div>
 
 <br/>
 
+## 🧭 About
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
+
+I'm a **B.Tech CSE (AI & ML)** student at **VIT Bhopal** — CGPA `9.04`, graduating 2027 — currently working as a **Software Engineering Intern at ShotSelect**, an AI-powered photo culling platform, where I build across React, TypeScript, Electron, and Cloudflare Workers.
+
+Alongside that, I design and ship computer vision and NLP systems end-to-end — from model architecture through explainability to deployment — and compete regularly in DSA on LeetCode.
+
+**🔭 Currently:** shipping features at ShotSelect · polishing PulmoScan for public release · sharpening DSA for SDE placements
+**🌱 Exploring:** explainable AI, real-time edge vision, agentic RAG systems
+**💬 Ask me about:** medical computer vision, model interpretability, transformer fine-tuning
+**📫 Reach me:** yashpratap1837@gmail.com
+
+<br clear="right"/>
+
 ---
 
-## 🛠 Technologies, Projects, and Domains
+## 🎓 Timeline
 
-### 🛠 Technologies
+<table>
+<tr>
+<th>When</th>
+<th>What</th>
+</tr>
+<tr>
+<td><b>2026 – Present</b></td>
+<td>Software Engineering Intern @ <b>ShotSelect</b> — face grouping, background processing, client gallery & telemetry on an Electron/Cloudflare Workers stack</td>
+</tr>
+<tr>
+<td><b>2026</b></td>
+<td>Nasscom Hackathon — built <b>Enterprise Knowledge Copilot</b> (multi-agent RAG) with team <i>Runtime Terror</i></td>
+</tr>
+<tr>
+<td><b>2023 – 2027</b></td>
+<td>B.Tech Computer Science (AI-ML), <b>VIT Bhopal</b> — CGPA 9.04</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-<p>
-  <b>💻 Core Languages:</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<p>
-  <b>🧠 AI / ML & Computer Vision:</b><br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/Grad--CAM-00D2FF?style=flat-square&logo=python&logoColor=black" alt="Grad-CAM"/>
-  <img src="https://img.shields.io/badge/CLAHE%20Preprocessing-008080?style=flat-square&logo=opencv&logoColor=white" alt="CLAHE"/>
-</p>
-
-<p>
-  <b>🌐 Developer Tools & Frameworks:</b><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-</div>
-
----
-
-### 🧪 Projects
-
-#### 🫁 01. PulmoScan — AI Pulmonary Diagnostic System
-> **Medical Computer Vision & Explainable AI (XAI)**
-
-* 🛑 **Engineering Challenge**: Severe class imbalance and low local image contrast in chest radiographs, combined with black-box model opacity.
-* 💡 **Technical Solution**: Integrated **CLAHE** image contrast normalization, **Weighted Focal Loss** with backbone transfer architectures (**94.2% ROC-AUC**, 38% false-negative reduction), and **Grad-CAM visual heatmaps** for transparent diagnostic validation.
-* **Tech Stack**: `PyTorch` • `OpenCV` • `Grad-CAM` • `Scikit-Learn` • `Python`
-
----
-
-#### 🎭 02. Emotion Drift Detection System
-> **Natural Language Processing & Sentiment Acceleration Dynamics**
-
-* 🛑 **Engineering Challenge**: Static sentiment classifiers fail to capture multi-turn emotional decay over time in support conversations.
-* 💡 **Technical Solution**: Built a **temporal sliding-window transformer algorithm** tracking sentiment velocity & acceleration via fine-tuned **Hugging Face Transformer embeddings** (**89.6% F1-score**), escalating high-risk chats **4.2 minutes earlier**.
-* **Tech Stack**: `Python` • `Hugging Face Transformers` • `PyTorch` • `NLP` • `Pandas`
-
----
-
-#### 👁️ 03. Shastra Eye — Real-Time AI Surveillance Pipeline
-> **Edge Computer Vision & Real-Time Analytics**
-
-* 🛑 **Engineering Challenge**: Decoding multi-stream high-fps video feeds on standard hardware creates CPU bottlenecks and frame drops.
-* 💡 **Technical Solution**: Implemented multi-threaded CUDA frame buffers and TensorRT FP16 quantization to maintain **30+ FPS real-time performance** with **40% lower latency** on **NVIDIA Jetson** edge boards.
-* **Tech Stack**: `PyTorch` • `OpenCV` • `NVIDIA Jetson` • `Edge AI` • `Python`
-
----
-
-#### 🧠 04. Visual Stress Detection System
-> **Biomedical Signal Processing & Micro-Motion Analytics**
-
-* 🛑 **Engineering Challenge**: Intrusive contact sensors cause patient discomfort and artificial stress spikes.
-* 💡 **Technical Solution**: Engineered a non-invasive vision pipeline utilizing dense **Optical Flow** at 60Hz to extract sub-visual facial micro-tremors, correlating **86% with standard HRV indicators**.
-* **Tech Stack**: `Python` • `OpenCV` • `Optical Flow` • `Signal Processing` • `Scikit-Learn`
-
----
-
-#### 🤖 05. Enterprise Knowledge Copilot
-> **Intelligent Information Search & Document Retrieval**
-
-* 🛑 **Engineering Challenge**: Dense multi-page PDFs produce fragmented, out-of-context keyword search results.
-* 💡 **Technical Solution**: Implemented vector similarity embeddings and FastAPI service architecture for rapid semantic context retrieval (**320ms query latency**).
-* **Tech Stack**: `LangChain` • `FastAPI` • `Python` • `Vector Search`
-
----
-
-### 🧠 AI Domains
-
-* 🫁 **Medical Image Diagnostics**: Contrast normalization (CLAHE), Focal Loss imbalance handling, and Explainable AI (Grad-CAM).
-* 👁️ **Edge Computer Vision**: Real-time multi-stream video pipelines, CUDA acceleration, and TensorRT edge deployment.
-* 💬 **Temporal Sentiment Dynamics**: Multi-turn conversation drift tracking, velocity vectors, and transformer embeddings.
-* ⚡ **Biomedical Signal Processing**: Non-invasive optical flow tracking for micro-expression and tremor estimation.
-
----
-
-## 📊 Vital Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak" />
-</div>
-
+**Languages**
 <br/>
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp&theme=dark" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+<br/><br/>
+
+**AI / ML & Computer Vision**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Grad--CAM-00D2FF?style=flat-square"/>
+
+<br/><br/>
+
+**Engineering & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,electron,nodejs,fastapi,docker,git,linux&theme=dark" />
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+
 </div>
 
 ---
 
-## 🤝 Collaboration
+## 🧪 Featured Projects
 
-I’m open to collaborating on:
-* 🫁 **Medical computer vision & diagnostic systems**
-* 🧠 **Deep learning & model optimization (XAI, Focal Loss)**
-* 👁️ **Real-time video analytics & edge AI pipelines**
-* 💬 **NLP sentiment analytics & open-source ML projects**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🫁 PulmoScan
+**Medical Computer Vision · Explainable AI**
+
+Pneumonia detection from chest radiographs — CLAHE contrast normalization, Weighted Focal Loss on transfer-learned backbones, Grad-CAM heatmaps for transparent diagnosis.
+
+`94.2% ROC-AUC` `38% ↓ false negatives`
+
+`PyTorch` `OpenCV` `Grad-CAM` `Scikit-Learn`
+
+[↳ View repo](https://github.com/Yash-Singh607)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎭 Emotion Drift Detection
+**NLP · Temporal Sentiment Dynamics**
+
+Sliding-window transformer tracking sentiment velocity/acceleration in support conversations, fine-tuned on GoEmotions via HuggingFace.
+
+`89.6% F1` `4.2 min earlier escalation`
+
+`HuggingFace` `PyTorch` `NLP` `React/Electron`
+
+[↳ View repo](https://github.com/Yash-Singh607)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Shastra Eye
+**Edge Computer Vision · Real-Time Analytics**
+
+Multi-threaded CUDA frame buffers + TensorRT FP16 quantization for real-time multi-stream surveillance on Jetson hardware.
+
+`30+ FPS sustained` `40% ↓ latency`
+
+`PyTorch` `OpenCV` `NVIDIA Jetson`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Enterprise Knowledge Copilot
+**Agentic RAG · Nasscom Hackathon 2026**
+
+Multi-agent retrieval system over enterprise documents — vector search, graph reasoning over Neo4j, LangGraph orchestration.
+
+`320ms query latency`
+
+`LangGraph` `Neo4j` `ChromaDB` `Gemini 1.5 Pro`
+
+[↳ View repo](https://github.com/Yash-Singh607)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Visual Stress Detection
+**Biomedical Signal Processing**
+
+Non-invasive stress estimation via dense Optical Flow at 60Hz, extracting sub-visual facial micro-tremors as a proxy for HRV.
+
+`86% correlation with HRV`
+
+`OpenCV` `Optical Flow` `Scikit-Learn`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 AgriBot
+**IoT · Smart Agriculture**
+
+Arduino-based field monitoring robot for automated crop health tracking and irrigation triggers.
+
+`IoT` `Embedded Systems` `Sensors`
+
+[↳ View repo](https://github.com/Yash-Singh607)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Analytics
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/yash_014/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Yash-Singh607">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yash-Singh607&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+
+</div>
 
 ---
 
-⚡ *Building real-time computer vision and machine learning applications*
+## 🤝 Let's Collaborate
 
-⭐ **Star the repos if they helped you!**
+<div align="center">
+
+Open to opportunities in **medical computer vision**, **applied ML / XAI**, **real-time edge vision**, and **SDE roles**.
+
+<a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/yash_014/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/Yash-Singh607"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:0F2027&height=100&section=footer" width="100%"/>
