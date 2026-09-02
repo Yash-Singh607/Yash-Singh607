@@ -44,7 +44,7 @@ I am an **AI & Machine Learning student at VIT Bhopal University** focused on bu
 
 ## → Education
 
-**B.Tech — Artificial Intelligence & Data Science**  
+**B.Tech — Artificial Intelligence & Machine Learning**  
 VIT Bhopal University
 
 ---
