@@ -151,24 +151,26 @@ A graph-enhanced enterprise RAG system developed with **Team Runtime Terror**. T
 | Architecture | Document ingestion → embeddings → retrieval → grounded response generation |
 | Contribution | End-to-end RAG flow and relational reasoning module |
 | Event | Nasscom Hackathon 2026 |
+| Repository | [GitHub](https://github.com/Yash-Singh607/Enterprise-Knowledge) |
 
 </details>
 
 <br>
 
 <details>
-<summary><strong>⚡ Shastra Eye — Real-Time AI Surveillance Pipeline</strong></summary>
+<summary><strong>🌱 AgriBot — AI-Powered Agricultural Chatbot</strong></summary>
 
-An edge-computer-vision pipeline optimized for real-time inference on **NVIDIA Jetson** hardware. The system uses CUDA-based frame buffering and TensorRT FP16 optimization to reduce inference latency while maintaining high-throughput processing.
+An AI-powered agricultural chatbot designed to recommend suitable crops based on **soil, climate, and environmental conditions**. The system uses machine learning to provide data-driven insights for better farming decisions.
 
 | Area | Details |
 |---|---|
-| Stack | NVIDIA Jetson • CUDA • TensorRT • OpenCV • PyTorch |
-| Optimization | CUDA multi-threaded frame buffers |
-| Inference | TensorRT FP16 quantization |
-| Performance | 30+ FPS |
-| Latency | Approximately 40% lower latency |
-| Impact | Real-time edge AI processing with hardware-aware optimization |
+| Stack | Python • Flask • Scikit-learn • HTML • CSS • JavaScript |
+| Machine Learning | Support Vector Machine (SVM) |
+| Preprocessing | MinMaxScaler • StandardScaler |
+| Prediction | Crop recommendation based on soil & climate conditions |
+| Interface | Interactive chatbot-based web interface |
+| Impact | Data-driven agricultural guidance for crop selection |
+| Repository | [GitHub](https://github.com/Yash-Singh607/AgriBot---Crop-Recommendation-System) |
 
 </details>
 
