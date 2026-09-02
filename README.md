@@ -1,225 +1,171 @@
-<div align="center">
+# 👋 Hi, I'm Yash Pratap Singh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00D2FF&height=210&section=header&text=Yash%20Pratap%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20Computer%20Vision%20%7C%20Software%20Engineering&descAlignY=56&descSize=16" width="100%"/>
+### AI & Data Science Student | Machine Learning Enthusiast | Computer Vision Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D2FF&center=true&vCenter=true&width=600&lines=SWE+Intern+%40+ShotSelect;Building+PulmoScan+%E2%80%94+Explainable+Medical+AI;B.Tech+CSE+(AI-ML)+%40+VIT+Bhopal;Competitive+Programmer+%40+LeetCode" alt="Typing SVG"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Yash-Singh607"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/yash_014/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:yashpratap1837@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yash-Singh607&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
-
-## 🧭 About
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
-
-I'm a **B.Tech CSE (AI & ML)** student at **VIT Bhopal** — CGPA `9.04`, graduating 2027 — currently working as a **Software Engineering Intern at ShotSelect**, an AI-powered photo culling platform, building across React, TypeScript, Electron, and Cloudflare Workers.
-
-Alongside that, I design and ship computer vision and NLP systems end-to-end — from model architecture through explainability to deployment — and compete regularly in DSA on LeetCode.
-
-**🔭 Currently:** shipping features at ShotSelect · polishing PulmoScan for public release · sharpening DSA for SDE placements
-**🌱 Exploring:** explainable AI, real-time edge vision, agentic RAG systems
-**💬 Ask me about:** medical computer vision, model interpretability, transformer fine-tuning
-**📫 Reach me:** yashpratap1837@gmail.com
-
-<br clear="right"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;Computer+Vision+Developer;Building+Agentic+AI+Systems;Deep+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 About Me
 
-<div align="center">
+I am an AI & Data Science student at VIT Bhopal passionate about building intelligent systems that solve real-world problems.
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp&theme=dark"/>
+### Interests
 
-<br/><br/>
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning & Deep Learning
+* 👁️ Computer Vision
+* 💬 Natural Language Processing
+* 🔍 Retrieval-Augmented Generation (RAG)
+* ⚡ Agentic AI Systems
 
-**AI / ML & Computer Vision**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Grad--CAM-00D2FF?style=flat-square"/>
+### Current Focus
 
-<br/><br/>
-
-**Engineering & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,electron,nodejs,fastapi,docker,git,linux&theme=dark"/>
-<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-
-</div>
+* 🔭 Building Agentic AI & Multi-Agent Systems
+* 🌱 Learning Reinforcement Learning
+* 🏆 Participating in Hackathons and Open Source Programs
+* 📚 Exploring Advanced Computer Vision & LLM Applications
 
 ---
 
-## 🧪 Featured Projects
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Languages
 
-### 🫁 PulmoScan
-**Medical Computer Vision · Explainable AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-Pneumonia detection from chest radiographs — CLAHE contrast normalization, Weighted Focal Loss on transfer-learned backbones, Grad-CAM heatmaps for transparent diagnosis.
+### AI / ML
 
-`94.2% ROC-AUC` · `38% ↓ false negatives`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
-`PyTorch` `OpenCV` `Grad-CAM` `Scikit-Learn`
+### Development
 
-[↳ View repo](https://github.com/Yash-Singh607)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+### Tools
 
-### 🎭 Emotion Drift Detection
-**NLP · Temporal Sentiment Dynamics**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-Sliding-window transformer tracking sentiment velocity/acceleration in support conversations, fine-tuned on GoEmotions via HuggingFace.
+---
 
-`89.6% F1` · `4.2 min earlier escalation`
-
-`HuggingFace` `PyTorch` `NLP` `React/Electron`
-
-[↳ View repo](https://github.com/Yash-Singh607)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👁️ Shastra Eye
-**Edge Computer Vision · Real-Time Analytics**
-
-Multi-threaded CUDA frame buffers + TensorRT FP16 quantization for real-time multi-stream surveillance on Jetson hardware.
-
-`30+ FPS sustained` · `40% ↓ latency`
-
-`PyTorch` `OpenCV` `NVIDIA Jetson`
-
-</td>
-<td width="50%" valign="top">
+## 📂 Featured Projects
 
 ### 🤖 Enterprise Knowledge Copilot
-**Agentic RAG · Nasscom Hackathon 2026**
 
-Multi-agent retrieval system over enterprise documents — vector search, graph reasoning over Neo4j, LangGraph orchestration.
+Agentic AI + RAG platform for enterprise knowledge retrieval and reasoning.
 
-`320ms query latency`
+**Tech Stack:** LangChain, FastAPI, OpenAI, Vector Databases
 
-`LangGraph` `Neo4j` `ChromaDB` `Gemini 1.5 Pro`
+---
 
-[↳ View repo](https://github.com/Yash-Singh607)
+### 👁️ Shastra Eye AI Surveillance
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Real-time intelligent surveillance system powered by computer vision and edge AI.
+
+**Tech Stack:** PyTorch, OpenCV, NVIDIA Jetson
+
+---
+
+### 🎭 Emotion Drift Detection
+
+Customer support escalation system using emotional shift analysis.
+
+**Tech Stack:** Python, Transformers, NLP
+
+---
 
 ### 🧠 Visual Stress Detection
-**Biomedical Signal Processing**
 
-Non-invasive stress estimation via dense Optical Flow at 60Hz, extracting sub-visual facial micro-tremors as a proxy for HRV.
+Non-invasive stress estimation using facial motion analysis and optical flow.
 
-`86% correlation with HRV`
-
-`OpenCV` `Optical Flow` `Scikit-Learn`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 AgriBot
-**IoT · Smart Agriculture**
-
-Arduino-based field monitoring robot for automated crop health tracking and irrigation triggers.
-
-`IoT` `Embedded Systems` `Sensors`
-
-[↳ View repo](https://github.com/Yash-Singh607)
-
-</td>
-</tr>
-</table>
+**Tech Stack:** Python, OpenCV, Signal Processing
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true" />
+</p>
 
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Yash-Singh607&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Yash-Singh607/Yash-Singh607/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<sub>Animated daily via GitHub Actions — see setup note at the bottom.</sub>
-
-### 🧊 3D Contribution Calendar
-
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Yash-Singh607/Yash-Singh607/output/profile-3d-contrib/profile-night-rainbow.svg"/>
-</div>
-
-<sub>Also Actions-generated — same setup step covers both.</sub>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh607&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🤝 Let's Collaborate
+## 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Singh607&theme=tokyonight" />
+</p>
 
-Open to opportunities in **medical computer vision**, **applied ML / XAI**, **real-time edge vision**, and **SDE roles**.
-
-<a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/yash_014/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://github.com/Yash-Singh607"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:0F2027&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Singh607&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash-Singh607&theme=tokyonight" />
+</p>
 
 ---
 
-<details>
-<summary><b>⚙️ One-time setup to activate the Snake + 3D Calendar (click to expand)</b></summary>
-<br/>
+## 🔥 Contribution Graph
 
-Both visuals are generated by GitHub Actions and pushed to an <code>output</code> branch — they render broken until this runs once.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true" />
+</p>
 
-1. In your <code>Yash-Singh607/Yash-Singh607</code> repo, create <code>.github/workflows/profile-visuals.yml</code> using the workflow file provided alongside this README.
-2. Go to **Settings → Actions → General → Workflow permissions**, select **Read and write permissions**, save.
-3. Push the workflow file, or trigger it manually from the **Actions** tab.
-4. Wait ~1 minute for the first run, then refresh your profile — both the snake and 3D calendar will appear.
+---
 
-</details>
+## 📚 Certifications
+
+* Machine Learning — NPTEL
+* AI Fundamentals — Microsoft Learn
+* Data Analytics Certification
+* Java Programming Certification
+* SQL & Database Management
+* Frontend Development Certification
+
+---
+
+## 🎯 2026 Goals
+
+* Build production-ready Agentic AI systems
+* Contribute to impactful open-source projects
+* Publish technical blogs on AI & Computer Vision
+* Participate in global hackathons
+* Strengthen expertise in Reinforcement Learning
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/yash_014/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://github.com/Yash-Singh607">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ Open to collaborations in AI, Machine Learning, Computer Vision, and Agentic AI projects.
+
