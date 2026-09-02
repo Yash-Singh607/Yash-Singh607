@@ -1,248 +1,230 @@
-# 👋 Yash Pratap Singh
+# Yash Pratap Singh
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:2563EB&height=220&section=header&text=Yash%20Pratap%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student+%40+VIT+Bhopal;Machine+Learning+%26+Computer+Vision+Developer;AI+%26+Backend+Systems+Builder;Exploring+RAG+%26+Agentic+AI;Building+Practical+Intelligent+Systems" />
-</p>
+### AI & Data Science Student @ VIT Bhopal
+**Machine Learning • Deep Learning • Computer Vision • AI Engineering**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Developer-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Developer-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VIT-Bhopal-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/India-111827?style=for-the-badge"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Yash--Singh607-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Singh607)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-pratap-singh-4542692a0/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-yash__014-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/yash_014/)
+[![Email](https://img.shields.io/badge/Email-yashpratap1837%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:yashpratap1837@gmail.com)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Yash-Singh607">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/yash_014/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yash-Singh607&style=for-the-badge&color=7C3AED"/>
-</p>
+</div>
 
 ---
 
-## → About Me
+## → About
 
-I am an **AI & Data Science student at VIT Bhopal** focused on building practical intelligent systems across **Machine Learning, Deep Learning, Computer Vision, NLP, and AI-powered backend engineering**.
+I am an **AI & Data Science student at VIT Bhopal University** focused on building practical AI systems across **Machine Learning, Deep Learning, Computer Vision, NLP, and AI Engineering**.
 
-I enjoy taking ML ideas from experimentation to usable software — designing models, building APIs, integrating retrieval and reasoning components, testing systems, and improving performance.
+I enjoy turning research ideas into reliable software through model development, API integration, optimization, and deployment. My projects span **medical AI, emotion analytics, enterprise RAG, edge computer vision, and biomedical signal processing**.
 
-Currently, I am learning **RAG systems, vector databases, embeddings, semantic search, retrieval pipelines, and Agentic AI**, while strengthening my foundations in **Data Structures & Algorithms and Software Engineering**.
+Currently exploring **Generative AI, RAG systems, and Agentic AI**, while strengthening my foundations in **DSA, software engineering, and high-performance AI computing**.
 
-> **Build → Measure → Debug → Optimize → Ship**
-
-### Open To
-
-`AI/ML Engineering` · `Machine Learning` · `Computer Vision` · `Backend Engineering` · `AI Systems` · `Software Engineering`
+**Open To:** AI/ML Internships • Software Engineering • Computer Vision • Deep Learning • AI Engineering
 
 ---
 
 ## → Education
 
-| Institution | Degree | Duration |
-|---|---|---|
-| **VIT Bhopal University** | B.Tech — Artificial Intelligence & Data Science | 2023 – 2027 |
+**VIT Bhopal University**  
+B.Tech — Artificial Intelligence & Data Science
 
 ---
 
 ## → Tech Stack
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,sql"/>
-</p>
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### AI / Machine Learning
+### Backend / Frontend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
+### AI / Retrieval
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A29E4?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
-`Scikit-learn` · `OpenCV` · `Hugging Face` · `NumPy` · `Pandas`
-
-### Backend & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,git,github"/>
-</p>
-
-`REST APIs` · `Cloudflare Workers` · `ChromaDB` · `Neo4j`
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind"/>
-</p>
+### Tools / Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## → AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Proficiency | Focus |
 |---|---|---|
-| **Machine Learning** | Strong | Model development, evaluation & optimization |
-| **Deep Learning** | Strong | Transfer learning & neural architectures |
-| **Computer Vision** | Strong | Medical imaging, visual analysis & explainability |
-| **NLP** | Strong | Sentiment & emotion analysis |
-| **Model Explainability** | Strong | Grad-CAM & interpretable predictions |
-| **Retrieval Systems** | Learning | Embeddings, vector search & semantic retrieval |
-| **Graph Reasoning** | Working Knowledge | Neo4j entity relationships & structured queries |
-| **Model Serving** | Working Knowledge | FastAPI-based ML inference APIs |
-| **DSA** | Continuous Practice | Java-based algorithmic problem solving |
+| Machine Learning | Advanced | Classification, preprocessing, evaluation, feature engineering |
+| Deep Learning | Advanced | CNNs, transfer learning, PyTorch, TensorFlow |
+| Computer Vision | Advanced | OpenCV, image enhancement, detection, Grad-CAM |
+| Medical AI | Advanced | Chest X-ray analysis, DICOM processing, explainable AI |
+| NLP | Intermediate | Transformers, DistilBERT, emotion classification |
+| RAG | Learning | Embeddings, vector databases, chunking, retrieval pipelines |
+| Generative AI | Learning | LLM applications and grounded generation |
+| Edge AI | Intermediate | CUDA, TensorRT, NVIDIA Jetson |
+| Signal Processing | Intermediate | Optical flow and biomedical signal analysis |
 
 ---
 
 # → Featured Projects
 
 <details>
-<summary><b>🫁 PulmoScan — AI-Powered Chest X-ray Pneumonia Detection</b></summary>
+<summary><strong>🫁 PulmoScan — AI-Powered Chest X-ray Pneumonia Detection</strong></summary>
 
-### Medical AI / Computer Vision
+### Overview
 
-End-to-end deep learning application for pneumonia detection from chest X-rays with explainable predictions and API-based inference.
+An AI-based medical imaging system for pneumonia detection from chest X-rays using deep learning and explainable AI.
 
 | Category | Details |
 |---|---|
-| **Stack** | Python · PyTorch · FastAPI · OpenCV · Docker |
-| **Model** | Fine-tuned ResNet-50 |
-| **Performance** | 90–94% test accuracy |
-| **Explainability** | Grad-CAM |
-| **Backend** | FastAPI REST APIs |
-| **Deployment** | Docker · GitHub Actions |
-| **Impact** | Automated and explainable medical image analysis |
+| Stack | Python, PyTorch, ResNet-50, FastAPI, OpenCV, Docker |
+| Model | Fine-tuned ResNet-50 using transfer learning |
+| Performance | 90–94% test accuracy |
+| Explainability | Grad-CAM visualization |
+| Input | DICOM and medical image formats |
+| Backend | FastAPI REST APIs |
+| Deployment | Docker-based deployment |
+| Additional | Uncertainty estimation and automated PDF reporting |
 
-**Highlights**
+### Key Contributions
+
 - Fine-tuned ResNet-50 using transfer learning and data augmentation.
-- Built FastAPI inference services supporting DICOM images.
-- Added Grad-CAM visualization for model interpretability.
-- Implemented uncertainty estimation and automated PDF reporting.
-- Added Docker-based deployment, automated testing and CI workflows.
+- Developed REST APIs using FastAPI.
+- Added DICOM image support for medical imaging workflows.
+- Implemented Grad-CAM for model interpretability.
+- Added uncertainty estimation and automated PDF report generation.
+- Containerized the application using Docker.
+- Added automated testing and GitHub Actions CI.
 
 </details>
 
-<br>
+---
 
 <details>
-<summary><b>🧠 Emotion Drift Detection — Enterprise Sentiment Analytics</b></summary>
+<summary><strong>💬 Emotion Drift Detection — Enterprise Sentiment Analytics</strong></summary>
 
-### NLP / Sentiment Intelligence
+### Overview
 
-Real-time customer sentiment analytics system designed to identify emotional changes and support SLA-risk analysis.
+An NLP system designed to analyze customer emotions over time and identify changes in emotional state during conversations.
 
 | Category | Details |
 |---|---|
-| **Stack** | Python · DistilBERT · FastAPI |
-| **Model** | Fine-tuned DistilBERT |
-| **Dataset** | Google GoEmotions |
-| **Analysis** | Emotion trajectory & drift detection |
-| **Backend** | FastAPI |
-| **Deployment** | Docker · Hugging Face Spaces |
-| **Impact** | Real-time sentiment intelligence |
+| Stack | Python, DistilBERT, FastAPI, React, Electron |
+| Dataset | Google GoEmotions |
+| Model | Fine-tuned DistilBERT |
+| Analysis | Emotion trajectory and sentiment trends |
+| Backend | FastAPI REST APIs |
+| Deployment | Docker and Hugging Face Spaces |
+| Application | Customer sentiment analytics |
 
-**Highlights**
+### Key Contributions
+
 - Fine-tuned DistilBERT for emotion classification.
-- Developed emotion trajectory analysis.
-- Implemented SLA-risk prediction logic.
-- Exposed model inference through REST APIs.
-- Supported web-based and offline deployment workflows.
+- Built a real-time sentiment analytics backend.
+- Implemented emotion trajectory analysis.
+- Added SLA risk prediction capabilities.
+- Developed secure REST APIs.
+- Supported both cloud and desktop deployment.
 
 </details>
 
-<br>
+---
 
 <details>
-<summary><b>🔎 Enterprise Knowledge Copilot — Graph + Retrieval Intelligence</b></summary>
+<summary><strong>🧠 Enterprise Knowledge Copilot — Nasscom Hackathon 2026</strong></summary>
 
-### RAG / Knowledge Systems
+### Overview
 
-Enterprise knowledge system combining vector retrieval, graph reasoning and agent orchestration for intelligent information access.
+An enterprise knowledge assistant combining vector retrieval and graph-based reasoning for grounded question answering.
 
 | Category | Details |
 |---|---|
-| **Stack** | Python · LangChain · LangGraph |
-| **Vector Store** | ChromaDB |
-| **Graph Database** | Neo4j |
-| **LLM** | Gemini 1.5 Pro |
-| **Reasoning** | Graph-based entity relationships |
-| **Event** | Nasscom Hackathon 2026 |
-| **Team** | Runtime Terror |
+| Event | Nasscom Hackathon 2026 |
+| Team | Runtime Terror |
+| Stack | LangGraph, Gemini 1.5 Pro, LangChain |
+| Vector Store | ChromaDB |
+| Graph Database | Neo4j |
+| Architecture | RAG + Graph-based reasoning |
 
-**Highlights**
-- Built graph-based entity and relationship modeling using Neo4j.
-- Developed structured relational query capabilities.
-- Integrated ChromaDB vector retrieval with agent workflows.
-- Contributed to document ingestion, embeddings and retrieval.
-- Worked on grounded response generation within the broader agent pipeline.
+### Key Contributions
+
+- Built a graph database for enterprise entities and relationships.
+- Implemented structured relational queries using Neo4j.
+- Connected ChromaDB with a LangGraph agent pipeline through LangChain tools.
+- Contributed to document ingestion and embedding workflows.
+- Integrated retrieval with grounded response generation.
 
 </details>
 
-<br>
+---
 
 <details>
-<summary><b>👁️ Shastra Eye — Real-Time AI Surveillance Pipeline</b></summary>
+<summary><strong>👁️ Shastra Eye — Real-Time AI Surveillance Pipeline</strong></summary>
 
-### Edge Computer Vision
+### Overview
 
-Real-time computer vision pipeline optimized for low-latency inference on edge hardware.
+An edge computer vision pipeline optimized for real-time AI inference on NVIDIA Jetson hardware.
 
 | Category | Details |
 |---|---|
-| **Domain** | Edge AI / Computer Vision |
-| **Hardware** | NVIDIA Jetson |
-| **Acceleration** | CUDA |
-| **Inference** | TensorRT |
-| **Vision** | OpenCV · PyTorch |
-| **Performance** | 30+ FPS |
-| **Optimization** | FP16 quantization & multi-threaded buffers |
-| **Impact** | 40% lower latency |
+| Stack | NVIDIA Jetson, CUDA, TensorRT, OpenCV, PyTorch |
+| Architecture | Edge Computer Vision |
+| Optimization | CUDA multi-threaded frame buffers |
+| Inference | TensorRT FP16 |
+| Performance | 30+ FPS |
+| Latency | ~40% lower latency |
 
-**Highlights**
-- Designed real-time video processing workflows.
-- Used CUDA acceleration for compute-intensive operations.
-- Optimized inference using TensorRT FP16 quantization.
-- Implemented multi-threaded frame buffering.
-- Achieved real-time edge inference performance.
+### Key Contributions
+
+- Implemented CUDA-based multi-threaded frame buffering.
+- Optimized inference using TensorRT FP16.
+- Designed a real-time computer vision processing pipeline.
+- Improved throughput and reduced inference latency.
 
 </details>
 
-<br>
+---
 
 <details>
-<summary><b>📈 Visual Stress Detection System</b></summary>
+<summary><strong>🧬 Visual Stress Detection System</strong></summary>
 
-### Biomedical Signal Processing / Computer Vision
+### Overview
 
-Visual stress analysis system using facial motion patterns and optical-flow-based signal extraction.
+A biomedical signal processing system that analyzes facial micro-movements using dense optical flow to estimate stress-related physiological patterns.
 
 | Category | Details |
 |---|---|
-| **Domain** | Biomedical AI |
-| **Method** | Dense Optical Flow |
-| **Sampling** | 60 Hz |
-| **Signal** | Facial micro-tremors |
-| **Correlation** | 86% with standard HRV indicators |
-| **Stack** | Python · OpenCV · Scikit-learn |
-| **Impact** | Non-contact stress analysis |
+| Stack | Python, OpenCV, Scikit-learn |
+| Technique | Dense Optical Flow |
+| Processing | 60 Hz |
+| Signal | Facial micro-tremors |
+| Correlation | 86% with standard HRV indicators |
 
-**Highlights**
-- Extracted facial micro-motion using dense optical flow.
-- Processed high-frequency facial movement signals.
-- Compared extracted patterns against standard HRV indicators.
-- Applied signal-processing techniques for physiological pattern analysis.
+### Key Contributions
+
+- Implemented dense optical flow for facial motion analysis.
+- Extracted micro-movement patterns from video.
+- Applied signal processing techniques for physiological analysis.
+- Built machine learning-based analysis pipelines.
 
 </details>
 
@@ -251,145 +233,114 @@ Visual stress analysis system using facial motion patterns and optical-flow-base
 # → Experience
 
 ### Software Engineering Intern — ShotSelect
+**Jul 2026 – Present · Remote**
 
-**AI-Powered Photo Culling Platform · 2026**
+AI-powered photo culling platform focused on intelligent photo selection and workflow automation.
 
-- Developed and integrated backend services for an AI-assisted photo culling platform.
-- Worked on scalable REST API design and backend application architecture.
-- Contributed to desktop-to-backend integration across React, TypeScript, Electron and Node.js.
-- Debugged integration issues and improved service reliability.
-- Participated in Agile development, feature design, testing and code reviews.
+- Developed and integrated backend services using **Cloudflare Workers**.
+- Designed and integrated scalable **REST APIs**.
+- Worked across **React, TypeScript, Electron, and Node.js** components.
+- Contributed to AI-driven photo culling and automated photo selection workflows.
+- Debugged integration issues and improved system reliability.
+- Participated in feature development, testing, code reviews, and sprint planning.
 
-**Skills:** `Backend Engineering` `REST APIs` `Cloudflare Workers` `React` `TypeScript` `Node.js` `Electron`
+**Skills:** `Cloudflare Workers` `REST APIs` `TypeScript` `React` `Electron` `Node.js` `AI Integration`
 
 ---
 
 # → Achievements
 
-<p align="center">
-
 | Recognition | Details |
 |---|---|
-| **Hackathon Participant** | Nasscom Hackathon 2026 — Team Runtime Terror |
-| **DSA Practice** | Continuous problem solving across arrays, strings, linked lists, trees, recursion, DP & graphs |
-| **AI Project Development** | Built applied ML, CV, NLP and AI backend systems |
-
-</p>
+| Nasscom Hackathon 2026 | Participant — Team Runtime Terror |
+| Competitive Programming | Consistent LeetCode problem solving |
+| AI / ML Projects | Developed multiple end-to-end AI and computer vision systems |
 
 ---
 
 # → Certifications
 
 ### Microsoft
+- Introduction to Machine Learning  
+  [Certificate](https://drive.google.com/file/d/1L2iWKByuD2dw5tgzkLo8FALzUMM2-Gf8/view?usp=sharing)
 
-- **Introduction to Machine Learning** — [Verify Certificate](https://drive.google.com/file/d/1L2iWKByuD2dw5tgzkLo8FALzUMM2-Gf8/view?usp=sharing)
-- **Fundamentals of Computer Vision** — [Verify Certificate](https://drive.google.com/file/d/1BDFinUfZrMvnYod1Pn_A4f0GDVFHE-eM/view?usp=sharing)
+### Vityarthi
+- Fundamentals of Computer Vision  
+  [Certificate](https://drive.google.com/file/d/1BDFinUfZrMvnYod1Pn_A4f0GDVFHE-eM/view?usp=sharing)
 
 ### NPTEL
-
-- **Cloud Computing** — [Verify Certificate](https://drive.google.com/file/d/1EwffKWtUwqvg5Brd1XNCrUJ-VBlkuWnq/view?usp=drive_link)
+- Cloud Computing  
+  [Certificate](https://drive.google.com/file/d/1EwffKWtUwqvg5Brd1XNCrUJ-VBlkuWnq/view?usp=drive_link)
 
 ### Roadmap.sh
+- Java Skill Certification  
+  [Certificate](https://drive.google.com/file/d/1HcXIdvpHBQ-SMBKZLkKbHYHHFRNnRCSg/view?usp=drive_link)
+- SQL Skill Certification  
+  [Certificate](https://drive.google.com/file/d/1Ffjo5XgkENCLzHhkp-4ERpCG0DIBCn-D/view?usp=drive_link)
 
-- **Java — Skill Certification** — [Verify Certificate](https://drive.google.com/file/d/1HcXIdvpHBQ-SMBKZLkKbHYHHFRNnRCSg/view?usp=drive_link)
-- **SQL — Skill Certification** — [Verify Certificate](https://drive.google.com/file/d/1Ffjo5XgkENCLzHhkp-4ERpCG0DIBCn-D/view?usp=drive_link)
-
-### Coursera — University of Michigan
-
-- **Applied Machine Learning in Python** — [Verify Certificate](https://drive.google.com/file/d/12QZbVBnFK0Lu7rxpOz8mR6GomEF3gY8v/view?usp=drive_link)
+### University of Michigan / Coursera
+- Applied Machine Learning in Python  
+  [Certificate](https://drive.google.com/file/d/12QZbVBnFK0Lu7rxpOz8mR6GomEF3gY8v/view?usp=drive_link)
 
 ### ServiceNow
-
-- **ServiceNow Virtual Internship Program** — [Verify Certificate](https://drive.google.com/file/d/1JXZ0capa_y-9H2dGO34-DKONAeRo8Vf/view?usp=drive_link)
+- ServiceNow Virtual Internship Program  
+  [Certificate](https://drive.google.com/file/d/1JXZ0capa_y-9H2dGO34-DKONAeRo8Vf/view?usp=drive_link)
 
 ### Forage
-
-- **GenAI Powered Data Analytics Job Simulation** — [Verify Certificate](https://drive.google.com/file/d/1EaCdWKgVF1YSGhDmvjRF5tOsq3W0x4c2/view?usp=drive_link)
+- GenAI Powered Data Analytics Job Simulation  
+  [Certificate](https://drive.google.com/file/d/1EaCdWKgVF1YSGhDmvjRF5tOsq3W0x4c2/view?usp=drive_link)
 
 ---
 
 # → Coding Profiles
 
-<p align="center">
+<div align="center">
 
-<a href="https://leetcode.com/u/yash_014/">
-<img src="https://img.shields.io/badge/LeetCode-yash__014-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-yash__014-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yash_014/)
 
-<a href="https://github.com/Yash-Singh607">
-<img src="https://img.shields.io/badge/GitHub-Yash--Singh607-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Yash--Singh607-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Singh607)
 
-</p>
+</div>
 
 ---
 
-# → GitHub Analytics
+# → GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yash-Singh607&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"/>
-</p>
+[![GitHub Profile](https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Singh607)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
-</p>
+</div>
 
----
-
-# → GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash-Singh607&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</p>
-
----
-
-# → Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="95%"/>
-</p>
-
----
-
-# → Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yash-Singh607/Yash-Singh607/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</p>
+No external GitHub statistics, activity graphs, trophy widgets, or contribution-snake images are used here to keep the README stable and free from broken third-party graph embeds.
 
 ---
 
 # → Current Focus
 
 ```yaml
-learning:
-  - RAG Systems
+Learning:
+  - Retrieval-Augmented Generation
   - Vector Databases
   - Embeddings
   - Semantic Search
-  - Retrieval Pipelines
-
-building:
-  - Applied Machine Learning Systems
-  - Computer Vision Applications
-  - AI-powered Backend Services
-  - DSA Problem Solving
-
-exploring:
   - Generative AI
   - Agentic AI
-  - Knowledge Graphs
-  - AI Engineering
 
-open_to:
-  - AI/ML Engineering
-  - Machine Learning
-  - Computer Vision
-  - Backend Engineering
-  - AI Systems
-  - Software Engineering Opportunities
+Building:
+  - AI/ML Applications
+  - Computer Vision Systems
+  - RAG Pipelines
+  - AI-powered Software Systems
+
+Exploring:
+  - LLM Applications
+  - Graph-based Retrieval
+  - Edge AI
+  - High-Performance AI Computing
+
+Open To:
+  - AI/ML Internships
+  - Software Engineering Roles
+  - Computer Vision Opportunities
+  - Deep Learning Projects
