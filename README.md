@@ -293,7 +293,7 @@ Contributing to an **AI-powered photo culling platform**, working across backend
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yash-Singh607/Yash-Singh607/output/github-trophies.svg" alt="GitHub Trophies"/>
+<img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 
 </div>
 
