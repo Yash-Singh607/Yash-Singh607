@@ -36,7 +36,7 @@
 
 ## → About
 
-I am an **AI & Data Science student at VIT Bhopal University** focused on building practical, reliable AI systems. My interests span **Machine Learning, Deep Learning, Computer Vision, Medical AI, NLP, Edge AI, and software engineering**. I enjoy turning ML research ideas into usable products through clean APIs, modular architectures, model optimization, and thoughtful product engineering.
+I am an **AI & Machine Learning student at VIT Bhopal University** focused on building practical, reliable AI systems. My interests span **Machine Learning, Deep Learning, Computer Vision, Medical AI, NLP, Edge AI, and software engineering**. I enjoy turning ML research ideas into usable products through clean APIs, modular architectures, model optimization, and thoughtful product engineering.
 
 **Open To:** AI/ML Engineering • Software Engineering • Computer Vision • Applied AI • Research & Development
 
