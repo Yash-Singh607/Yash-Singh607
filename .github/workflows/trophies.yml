@@ -1,9 +1,9 @@
 name: Generate GitHub Trophies
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 1 * * 0"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,41 +11,22 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Deno
-        uses: denoland/setup-deno@v1
+      - name: Generate Trophy
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          deno-version: v1.x
-
-      - name: Clone Trophy Generator
-        run: |
-          git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git trophy-generator
-
-      - name: Generate Trophy SVG
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          cd trophy-generator
-          deno run --allow-read --allow-write --allow-net --allow-env render_svg.ts \
-            --username Yash-Singh607 \
-            --output_path ../github-trophies.svg \
-            --token "$GH_TOKEN" \
-            --theme tokyo-night
-
-      - name: Prepare output
-        run: |
-          mkdir -p dist
-          cp github-trophies.svg dist/github-trophies.svg
+          options: 'username=Yash-Singh607&theme=tokyonight&column=6&margin-w=10&margin-h=10'
+          path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish Trophy
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
