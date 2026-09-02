@@ -113,7 +113,7 @@ An explainable medical-AI pipeline for pneumonia detection from chest X-rays. Th
 | Explainability | Grad-CAM visualizations |
 | Reliability | Uncertainty estimation, automated testing and modular CLI tools |
 | Impact | Converts a deep-learning model into an explainable API-driven application |
-| Repository | [GitHub](https://github.com/Yash-Singh607) |
+| Repository | [GitHub](https://github.com/Yash-Singh607/pulmoscan) |
 
 </details>
 
@@ -132,6 +132,7 @@ An NLP analytics system designed to track changing customer emotions over time. 
 | Backend | Secure REST API architecture |
 | Deployment | FastAPI • Hugging Face Spaces • Docker |
 | Impact | Converts individual sentiment predictions into time-aware customer insights |
+| Repository | [GitHub](https://github.com/Yash-Singh607/Emotion_Drift_Detection) |
 
 </details>
 
@@ -193,7 +194,7 @@ A computer-vision and biomedical signal-processing system that analyzes facial m
 ## → Experience
 
 ### Software Engineering Intern — ShotSelect
-**Jul 2026 – Present · Remote**
+**May 2026 – June 2026 · Remote**
 
 Contributing to an **AI-powered photo culling platform**, working across backend services and desktop application integration.
 
