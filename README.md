@@ -2,7 +2,7 @@
 
 # Yash Pratap Singh
 
-### AI & Data Science Student @ VIT Bhopal | Machine Learning & Computer Vision Developer
+### AI & Machine Learning Student @ VIT Bhopal | Machine Learning & Computer Vision Developer
 
 <a href="https://github.com/Yash-Singh607">
   <img src="https://img.shields.io/badge/GitHub-Yash--Singh607-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
