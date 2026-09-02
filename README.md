@@ -2,18 +2,18 @@
 
 # Yash Pratap Singh
 
-### Artificial Intelligence & Machine Learning Student @ VIT Bhopal
+### AI & Data Science Student @ VIT Bhopal | Machine Learning & Computer Vision Developer
 
 <img src="https://komarev.com/ghpvc/?username=Yash-Singh607&label=Profile%20Views&color=6f42c1&style=flat-square" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%26+Computer+Vision;Medical+AI+%26+NLP;Model+Interpretability+%26+Edge+AI;Currently+Learning+RAG+%26+Generative+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+Medical+AI;NLP+%26+Model+Interpretability;Currently+Learning+RAG+%26+Generative+AI" />
 
 <br>
 
-[![VIT Bhopal](https://img.shields.io/badge/VIT%20Bhopal-AI%20%26%20ML-6C63FF?style=for-the-badge)](https://vitbhopal.ac.in/)
-[![Location](https://img.shields.io/badge/Location-India-6366F1?style=for-the-badge)](https://www.google.com/maps/place/India)
+[![VIT Bhopal](https://img.shields.io/badge/VIT%20Bhopal-AI%20%26%20Data%20Science-6C63FF?style=for-the-badge)](https://vitbhopal.ac.in/)
+[![India](https://img.shields.io/badge/Location-India-6366F1?style=for-the-badge)](https://www.google.com/maps/place/India)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pratap-singh-4542692a0/)
-[![GitHub](https://img.shields.io/badge/GitHub-Yash--Singh607-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Singh607)
+[![GitHub](https://img.shields.io/badge/GitHub-Yash--Singh607-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Singh607)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yash_014/)
 
 </div>
@@ -22,11 +22,11 @@
 
 ## → About
 
-I am an **Artificial Intelligence & Machine Learning student at VIT Bhopal** focused on building practical AI systems using **Machine Learning, Deep Learning, Computer Vision, NLP, and AI Engineering**.
+I am an **Artificial Intelligence & Data Science student at VIT Bhopal** focused on building practical and intelligent software systems using **Machine Learning, Deep Learning, Computer Vision, NLP, and AI engineering**.
 
-My work combines machine learning with software engineering to develop solutions in **Medical AI, Computer Vision, Natural Language Processing, Model Interpretability, and Edge AI**. I enjoy taking ideas from experimentation to working AI applications using technologies such as **Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, Hugging Face, and FastAPI**.
+My work combines model development with software engineering principles, with experience in **PyTorch, TensorFlow, Scikit-learn, OpenCV, Hugging Face, FastAPI, and Python**. I enjoy transforming AI research concepts into reliable applications, particularly in **Medical AI, Computer Vision, NLP, Model Interpretability, and Edge AI**.
 
-I am currently learning **Retrieval-Augmented Generation (RAG), Generative AI, and Agentic AI**, while strengthening my foundations in machine learning, deep learning, DSA, and software engineering.
+I am currently learning **Retrieval-Augmented Generation (RAG), Generative AI, and Agentic AI**, while continuing to strengthen my foundations in machine learning, deep learning, DSA, and software engineering.
 
 ### → Open To
 
@@ -47,7 +47,7 @@ I am currently learning **Retrieval-Augmented Generation (RAG), Generative AI, a
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Machine Learning & Deep Learning
+### AI / ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -76,11 +76,11 @@ I am currently learning **Retrieval-Augmented Generation (RAG), Generative AI, a
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning | Advanced | Classification, feature engineering, model evaluation |
+| Machine Learning | Advanced | Classification, feature engineering, evaluation, model optimization |
 | Deep Learning | Advanced | CNNs, transfer learning, loss functions, PyTorch |
 | Computer Vision | Advanced | Image preprocessing, classification, Grad-CAM, optical flow |
-| Medical AI | Advanced | Chest X-ray analysis and visual interpretability |
-| NLP | Intermediate | Transformer embeddings and sentiment analysis |
+| Medical AI | Advanced | Chest X-ray analysis, visual interpretability |
+| NLP | Intermediate | Transformer embeddings, sentiment analysis, temporal NLP |
 | Edge AI | Intermediate | NVIDIA Jetson, CUDA, TensorRT, real-time inference |
 | Generative AI | Learning | Exploring modern generative AI workflows |
 | RAG | Learning | Learning embeddings, vector search and retrieval pipelines |
@@ -95,11 +95,12 @@ I am currently learning **Retrieval-Augmented Generation (RAG), Generative AI, a
 
 <br>
 
-AI-powered pulmonary X-ray analysis system focused on deep learning classification and visual model interpretability.
+AI-powered pulmonary X-ray analysis system focused on robust classification and visual model interpretability.
 
 | Category | Details |
 |---|---|
 | Stack | Python, PyTorch, OpenCV, Scikit-learn, FastAPI |
+| Architecture | Deep Learning + Explainable AI |
 | Preprocessing | CLAHE contrast normalization |
 | Loss | Weighted Focal Loss |
 | Interpretability | Grad-CAM |
@@ -107,7 +108,7 @@ AI-powered pulmonary X-ray analysis system focused on deep learning classificati
 | Impact | 38% reduction in false negatives |
 | Repository | [GitHub](https://github.com/Yash-Singh607) |
 
-PulmoScan combines medical image preprocessing, deep learning classification and **Grad-CAM visual explanations** to improve the interpretability of pulmonary X-ray predictions.
+PulmoScan combines medical image preprocessing, deep learning classification and **Grad-CAM visual explanations** to make model predictions easier to interpret and validate.
 
 </details>
 
@@ -151,7 +152,7 @@ Edge AI computer vision pipeline optimized for real-time inference on NVIDIA Jet
 | Domain | Edge Computer Vision |
 | Repository | [GitHub](https://github.com/Yash-Singh607) |
 
-The system combines GPU acceleration, optimized inference and multi-threaded frame processing for efficient real-time computer vision.
+The system focuses on efficient real-time computer vision by combining GPU acceleration, optimized inference and multi-threaded frame processing.
 
 </details>
 
@@ -200,13 +201,14 @@ The project explores semantic document retrieval using embeddings and vector sim
 
 ## → Experience
 
-### AI / ML Project Development
+### Academic & Independent AI Engineering
 
-**VIT Bhopal University**
+**AI / ML Project Development**  
+*VIT Bhopal University*
 
 - Developed machine learning and deep learning projects across **Computer Vision, Medical AI, NLP, and Edge AI**.
 - Implemented model training, preprocessing, evaluation and explainability workflows.
-- Built AI inference applications using **Python and FastAPI**.
+- Built inference-oriented applications using **Python and FastAPI**.
 - Explored optimized AI deployment using **CUDA, TensorRT and NVIDIA Jetson**.
 - Currently expanding knowledge in **RAG, Generative AI and Agentic AI**.
 
