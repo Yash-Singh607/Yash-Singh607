@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:6C5CE7&height=200&section=header&text=Yash%20Pratap%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Machine%20Learning%20%26%20Computer%20Vision%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:00D2FF,70:6C5CE7,100:2C3E50&height=220&section=header&text=Yash%20Pratap%20Singh&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Machine%20Learning%20%26%20Computer%20Vision%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Yash-Singh607">
   <img src="https://komarev.com/ghpvc/?username=Yash-Singh607&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -14,15 +14,9 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Yash-Singh607">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://leetcode.com/u/yash_014/">
-  <img src="https://img.shields.io/badge/LeetCode-yash__014-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Yash-Singh607"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/yash_014/"><img src="https://img.shields.io/badge/LeetCode-yash__014-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
 </div>
 
@@ -32,10 +26,36 @@
 
 <br/>
 
+## 🌀 3D Contribution Graph
+
+<div align="center">
+
+<!--START_3D_CONTRIB-->
+<img src="https://raw.githubusercontent.com/Yash-Singh607/Yash-Singh607/output/github-contribution-grid-snake-dark.svg" alt="3D Contribution Graph" width="100%"/>
+<!--END_3D_CONTRIB-->
+
+<sub>⚙️ This animated 3D grid regenerates nightly via GitHub Actions — see setup notes at the bottom to activate it.</sub>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--START_SNAKE-->
+<img src="https://raw.githubusercontent.com/Yash-Singh607/Yash-Singh607/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+<!--END_SNAKE-->
+
+</div>
+
+<br/>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=Yash-Singh607&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Yash's GitHub Trophies"/>
+  <img src="https://github-profile-trophies.vercel.app/?username=Yash-Singh607&theme=algolia&no-frame=true&no-background=true&margin-w=15&column=7" alt="Yash's GitHub Trophies"/>
 </div>
 
 <br/>
@@ -72,34 +92,14 @@
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="center" width="30%">
-      <b>💻 Core Languages</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    </td>
-    <td align="center" width="40%">
-      <b>🧠 Machine Learning & Computer Vision</b><br/><br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-    </td>
-    <td align="center" width="30%">
-      <b>🌐 Frameworks & Tools</b><br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
-      <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+### Core Languages
+<img src="https://skillicons.dev/icons?i=py,java,postgres,js,ts&theme=dark" /><br/><br/>
+
+### Machine Learning & Computer Vision
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,huggingface&theme=dark" /><br/><br/>
+
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,electron,nodejs,tailwind,git,docker&theme=dark" />
 
 </div>
 
@@ -189,11 +189,7 @@
 
 <table>
   <thead>
-    <tr>
-      <th>Certification / Specialization</th>
-      <th>Issuing Organization</th>
-      <th>Credential</th>
-    </tr>
+    <tr><th>Certification / Specialization</th><th>Issuing Organization</th><th>Credential</th></tr>
   </thead>
   <tbody>
     <tr><td>🤖 <b>Introduction to Machine Learning</b></td><td>Microsoft</td><td><a href="https://drive.google.com/file/d/1L2iWKByuD2dw5tgzkLo8FALzUMM2-Gf8/view?usp=sharing"><b>Verify</b></a></td></tr>
@@ -212,19 +208,22 @@
 ## 📊 Live GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak"/>
-</div>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh607&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh607&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak"/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Engineering Quote"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Engineering Quote"/>
+
 </div>
 
 <br/>
@@ -235,18 +234,31 @@
 
 I'm open to collaborating on **Medical Vision, Deep Learning, Edge AI, and Open-Source ML projects**.
 
-<a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/yash_014/">
-  <img src="https://img.shields.io/badge/LeetCode-yash__014-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://github.com/Yash-Singh607">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/yash-pratap-singh-4542692a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/yash_014/"><img src="https://img.shields.io/badge/LeetCode-yash__014-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/Yash-Singh607"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ⭐ *Star the repositories if they helped you!*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00D2FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,30:6C5CE7,70:00D2FF,100:0F2027&height=120&section=footer" width="100%"/>
+
+<!--
+=====================================================================
+SETUP: activating the 3D contribution graph + snake animation above
+=====================================================================
+These two visuals are generated by GitHub Actions running on YOUR
+repo (Yash-Singh607/Yash-Singh607) — they can't be produced by a
+static badge URL, so a one-time workflow file is required.
+
+1. In that repo, create: .github/workflows/3d-and-snake.yml
+   (full contents provided as a separate file alongside this README)
+2. Commit it to the default branch and let the scheduled Action run
+   once (or trigger it manually from the Actions tab).
+3. It will push generated SVGs to an "output" branch — the two
+   <img> tags above already point at that branch/path, so once the
+   Action runs, both visuals go live automatically. No further edits
+   needed here.
+=====================================================================
+-->
