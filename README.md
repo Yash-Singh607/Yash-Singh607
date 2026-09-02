@@ -2,13 +2,18 @@
 
 <div align="center">
 
-### AI & Data Science Student @ VIT Bhopal
-**Machine Learning • Deep Learning • Computer Vision • AI Engineering**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:2563EB&height=180&section=header&text=Yash%20Pratap%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Machine+Learning+%26+Deep+Learning;Computer+Vision+Developer;AI+Engineering+Enthusiast;Building+Intelligent+Systems" />
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yash--Singh607-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Singh607)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-pratap-singh-4542692a0/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-yash__014-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/yash_014/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-yash__014-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yash_014/)
 [![Email](https://img.shields.io/badge/Email-yashpratap1837%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:yashpratap1837@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yash-Singh607&style=for-the-badge&color=7C3AED)
 
 </div>
 
@@ -18,9 +23,9 @@
 
 I am an **AI & Data Science student at VIT Bhopal University** focused on building practical AI systems across **Machine Learning, Deep Learning, Computer Vision, NLP, and AI Engineering**.
 
-I enjoy turning research ideas into reliable software through model development, API integration, optimization, and deployment. My projects span **medical AI, emotion analytics, enterprise RAG, edge computer vision, and biomedical signal processing**.
+I enjoy transforming ideas into reliable software through model development, API integration, optimization, and deployment. My work spans **medical AI, emotion analytics, enterprise RAG, edge computer vision, and biomedical signal processing**.
 
-Currently exploring **Generative AI, RAG systems, and Agentic AI**, while strengthening my foundations in **DSA, software engineering, and high-performance AI computing**.
+Currently exploring **Generative AI, Retrieval-Augmented Generation, and Agentic AI**, while strengthening my foundations in **DSA, software engineering, and high-performance AI computing**.
 
 **Open To:** AI/ML Internships • Software Engineering • Computer Vision • Deep Learning • AI Engineering
 
@@ -28,7 +33,8 @@ Currently exploring **Generative AI, RAG systems, and Agentic AI**, while streng
 
 ## → Education
 
-**VIT Bhopal University**  
+**VIT Bhopal University**
+
 B.Tech — Artificial Intelligence & Data Science
 
 ---
@@ -36,6 +42,7 @@ B.Tech — Artificial Intelligence & Data Science
 ## → Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -43,6 +50,7 @@ B.Tech — Artificial Intelligence & Data Science
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### AI / ML
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -50,17 +58,20 @@ B.Tech — Artificial Intelligence & Data Science
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### Backend / Frontend
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ### AI / Retrieval
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A29E4?style=flat-square)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
 ### Tools / Cloud
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -102,14 +113,14 @@ An AI-based medical imaging system for pneumonia detection from chest X-rays usi
 | Explainability | Grad-CAM visualization |
 | Input | DICOM and medical image formats |
 | Backend | FastAPI REST APIs |
-| Deployment | Docker-based deployment |
+| Deployment | Docker |
 | Additional | Uncertainty estimation and automated PDF reporting |
 
 ### Key Contributions
 
 - Fine-tuned ResNet-50 using transfer learning and data augmentation.
 - Developed REST APIs using FastAPI.
-- Added DICOM image support for medical imaging workflows.
+- Added DICOM image support.
 - Implemented Grad-CAM for model interpretability.
 - Added uncertainty estimation and automated PDF report generation.
 - Containerized the application using Docker.
@@ -134,7 +145,6 @@ An NLP system designed to analyze customer emotions over time and identify chang
 | Analysis | Emotion trajectory and sentiment trends |
 | Backend | FastAPI REST APIs |
 | Deployment | Docker and Hugging Face Spaces |
-| Application | Customer sentiment analytics |
 
 ### Key Contributions
 
@@ -143,7 +153,7 @@ An NLP system designed to analyze customer emotions over time and identify chang
 - Implemented emotion trajectory analysis.
 - Added SLA risk prediction capabilities.
 - Developed secure REST APIs.
-- Supported both cloud and desktop deployment.
+- Supported cloud and desktop deployment.
 
 </details>
 
@@ -304,15 +314,63 @@ AI-powered photo culling platform focused on intelligent photo selection and wor
 
 ---
 
-# → GitHub
+# → GitHub Analytics
 
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Singh607)
+<img src="https://github-readme-stats.vercel.app/api?username=Yash-Singh607&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh607&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Yash-Singh607&theme=tokyonight&hide_border=true" />
 
 </div>
 
-No external GitHub statistics, activity graphs, trophy widgets, or contribution-snake images are used here to keep the README stable and free from broken third-party graph embeds.
+---
+
+# → Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Singh607&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# → GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yash-Singh607&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%"/>
+
+</div>
+
+---
+
+# → Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Yash-Singh607/Yash-Singh607/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Yash-Singh607/Yash-Singh607/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Yash-Singh607/Yash-Singh607/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
+
+</div>
 
 ---
 
