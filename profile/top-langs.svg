@@ -59,7 +59,9 @@
     .lang-progress{
       animation: growWidthAnimation 0.6s ease-in-out forwards;
     }
+    .progress-background { fill: #ddd; }
     
+          
 
           
       /* Animations */
@@ -84,9 +86,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -140,7 +148,7 @@
           data-testid="lang-progress"
           x="80.32"
           y="0"
-          width="72.71"
+          width="72.7"
           height="8"
           fill="#3178c6"
         />
@@ -148,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="153.02999999999997"
+          x="153.01999999999998"
           y="0"
           width="35.88"
           height="8"
@@ -158,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="188.90999999999997"
+          x="188.89999999999998"
           y="0"
           width="29.54"
           height="8"
@@ -168,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="218.44999999999996"
+          x="218.43999999999997"
           y="0"
           width="12.5"
           height="8"
@@ -178,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="230.94999999999996"
+          x="230.93999999999997"
           y="0"
           width="11.13"
           height="8"
@@ -188,7 +196,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="242.07999999999996"
+          x="242.06999999999996"
           y="0"
           width="17.52"
           height="8"
@@ -198,7 +206,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.59999999999997"
+          x="249.58999999999997"
           y="0"
           width="10.4"
           height="8"
