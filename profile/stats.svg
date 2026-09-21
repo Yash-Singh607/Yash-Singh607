@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">YASH SINGH&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1235, Total PRs: 2, Total Issues: 1, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1249, Total PRs: 2, Total Issues: 1, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 223.0404219308432;
+        stroke-dashoffset: 222.86856598774224;
       }
     }
   
