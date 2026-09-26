@@ -164,7 +164,7 @@ An AI-powered agricultural chatbot designed to recommend suitable crops based on
 
 | Area | Details |
 |---|---|
-| Stack | Python • Flask • Scikit-learn • HTML • CSS • JavaScript |
+| Stack | Python • Scikit-learn • HTML • CSS • JavaScript |
 | Machine Learning | Support Vector Machine (SVM) |
 | Preprocessing | MinMaxScaler • StandardScaler |
 | Prediction | Crop recommendation based on soil & climate conditions |
