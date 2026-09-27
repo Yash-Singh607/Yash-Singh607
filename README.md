@@ -333,7 +333,6 @@ Building:
 Exploring:
   - Agentic AI
   - Advanced RAG architectures
-  - Edge AI optimization
 
 Open To:
   - AI/ML Engineering
