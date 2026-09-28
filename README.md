@@ -107,7 +107,7 @@ An explainable medical-AI pipeline for pneumonia detection from chest X-rays. Th
 
 | Area | Details |
 |---|---|
-| Stack | Python • PyTorch • ResNet-50 • OpenCV • FastAPI • Docker |
+| Stack | Python • ResNet-50 • PyTorch • OpenCV • FastAPI • Docker |
 | Scale | Image classification and DICOM-compatible inference workflow |
 | Performance | 90–94% test accuracy; ROC-AUC 94.2% |
 | Explainability | Grad-CAM visualizations |
