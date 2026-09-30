@@ -56,7 +56,7 @@ VIT Bhopal University
 <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,sql" alt="Languages"/>
 </p>
 
-### AI / ML
+### Artificial Intelligence / Machine Learning 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI ML"/>
 </p>
