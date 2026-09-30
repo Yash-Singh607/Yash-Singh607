@@ -2,7 +2,7 @@
 
 # Yash Pratap Singh
 
-### AI & Machine Learning Student
+### AI & Machine Learning Student | Software Developer
 
 <a href="https://github.com/Yash-Singh607">
   <img src="https://img.shields.io/badge/GitHub-Yash--Singh607-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
